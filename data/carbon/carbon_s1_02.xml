@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="style_2"/>
+</styling>
+<layout>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_1"/>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_2"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="50050000t" end="81748332t" region="region_1" xml:id="subtitle0"><span style="style_1">-[indistinct whispering]</span><br/><span style="style_1">-[theme music playing]</span></p>
+<p begin="354937917t" end="383299584t" region="region_2" xml:id="subtitle1"><span style="style_1">[Kovacs] </span><span style="style_2">Peace is an illusion.</span></p>
+<p begin="394977916t" end="420002916t" region="region_2" xml:id="subtitle2"><span style="style_2">And no matter how tranquil </span><br/><span style="style_2">the world seems...</span></p>
+<p begin="435017916t" end="449198749t" region="region_2" xml:id="subtitle3"><span style="style_2">peace doesn't last long. </span></p>
+<p begin="560142916t" end="594343750t" region="region_2" xml:id="subtitle4"><span style="style_2">Peace is a struggle </span><br/><span style="style_2">against our very nature.</span></p>
+<p begin="620202916t" end="666082082t" region="region_2" xml:id="subtitle5"><span style="style_2">A skin we stretch over the bone,</span><br/><span style="style_2">muscle, and sinew</span></p>
+<p begin="666916250t" end="693192500t" region="region_2" xml:id="subtitle6"><span style="style_2">of our own innate savagery.</span></p>
+<p begin="768267500t" end="779111667t" region="region_2" xml:id="subtitle7"><span style="style_1">What are you doing?</span></p>
+<p begin="783699582t" end="799965832t" region="region_2" xml:id="subtitle8"><span style="style_1">We can't just leave her here.</span></p>
+<p begin="800800000t" end="829578750t" region="region_2" xml:id="subtitle9"><span style="style_1">[man] She's not our problem.</span><br/><span style="style_1">You want to get us arrested?</span></p>
+<p begin="836669167t" end="846262084t" region="region_2" xml:id="subtitle10"><span style="style_1">Just...</span></p>
+<p begin="862945417t" end="873372500t" region="region_2" xml:id="subtitle11"><span style="style_1">let her go.</span></p>
+<p begin="930095832t" end="978477499t" region="region_2" xml:id="subtitle12"><span style="style_1">[Kovacs] </span><span style="style_2">The instinct of violence</span><br/><span style="style_2">curls inside us like a parasite,</span></p>
+<p begin="980980000t" end="1031447084t" region="region_2" xml:id="subtitle13"><span style="style_2">waiting for a chance to feed on our rage </span><br/><span style="style_2">and multiply until it bursts out of us.</span></p>
+<p begin="1067316249t" end="1086919166t" region="region_2" xml:id="subtitle14"><span style="style_2">War is the only thing</span><br/><span style="style_2">we really understand.</span></p>
+<p begin="1162411250t" end="1178260417t" region="region_2" xml:id="subtitle15"><span style="style_1">[man laughing hysterically]</span></p>
+<p begin="1222888334t" end="1239154584t" region="region_2" xml:id="subtitle16"><span style="style_1">Long live the Uprising!</span></p>
+<p begin="1245410834t" end="1278777500t" region="region_2" xml:id="subtitle17"><span style="style_1">Long live Quellcrist Falconer...</span><br/><span style="style_1">[continues laughing]</span></p>
+<p begin="1292124166t" end="1308390416t" region="region_2" xml:id="subtitle18"><span style="style_2">Long live Quellcrist Falconer!</span></p>
+<p begin="1369701667t" end="1388053334t" region="region_2" xml:id="subtitle19"><span style="style_1">[screams, weapons fire echoing]</span></p>
+<p begin="1446862084t" end="1473555417t" region="region_2" xml:id="subtitle20"><span style="style_1">[cawing]</span></p>
+<p begin="1496495000t" end="1504836667t" region="region_2" xml:id="subtitle21"><span style="style_1">Christ.</span></p>
+<p begin="1554886667t" end="1574906667t" region="region_2" xml:id="subtitle22"><span style="style_1">Ah, for fuck's sake.</span></p>
+<p begin="1599097500t" end="1618700417t" region="region_2" xml:id="subtitle23"><span style="style_1">No hookers. Just get out of my room.</span></p>
+<p begin="1627459167t" end="1658740417t" region="region_2" xml:id="subtitle24"><span style="style_1">-I'd love to, but I have a job to do.</span><br/><span style="style_1">-You can keep what he paid you.</span></p>
+<p begin="1659574584t" end="1686685000t" region="region_2" xml:id="subtitle25"><span style="style_1">How generous of you.</span><br/><span style="style_1">But then it's not your money, is it?</span></p>
+<p begin="1687519167t" end="1728810417t" region="region_2" xml:id="subtitle26"><span style="style_1">This is not a siren of the night.</span><br/><span style="style_1">Ms. Prescott is an attorney.</span></p>
+<p begin="1729644582t" end="1750498749t" region="region_2" xml:id="subtitle27"><span style="style_1">Your hotel seems more perceptive than you.</span></p>
+<p begin="1751332916t" end="1765930832t" region="region_2" xml:id="subtitle28"><span style="style_1">That's disappointing,</span></p>
+<p begin="1766764999t" end="1795543749t" region="region_2" xml:id="subtitle29"><span style="style_1">in view of the trouble and expense</span><br/><span style="style_1">Mr. Bancroft has taken to acquire you.</span></p>
+<p begin="1799714584t" end="1822237084t" region="region_2" xml:id="subtitle30"><span style="style_1">Oh, you work for Bancroft.</span></p>
+<p begin="1823071249t" end="1846010832t" region="region_2" xml:id="subtitle31"><span style="style_1">Exclusively. May I have my...</span></p>
+<p begin="1850181667t" end="1859357500t" region="region_2" xml:id="subtitle32"><span style="style_1">Where's my clothes?</span></p>
+<p begin="1860191666t" end="1892724166t" region="region_2" xml:id="subtitle33"><span style="style_1">If by "clothes" you mean</span><br/><span style="style_1">those bloodstained rags, here they are.</span></p>
+<p begin="1893558332t" end="1926090832t" region="region_2" xml:id="subtitle34"><span style="style_1">But I took the liberty</span><br/><span style="style_1">of procuring habiliments</span></p>
+<p begin="1926924999t" end="1964879582t" region="region_2" xml:id="subtitle35"><span style="style_1">more appropriate for your position</span><br/><span style="style_1">as a confidant of a Meth.</span></p>
+<p begin="1968633334t" end="1993241250t" region="region_2" xml:id="subtitle36"><span style="style_1">He's not a confidant. He's a hired gun.</span></p>
+<p begin="1994075416t" end="2025773749t" region="region_2" xml:id="subtitle37"><span style="style_1">Take her downstairs.</span><br/><span style="style_1">And if it's not too much trouble,</span></p>
+<p begin="2026607917t" end="2053718334t" region="region_2" xml:id="subtitle38"><span style="style_1">don't let anyone else</span><br/><span style="style_1">into my fucking room.</span></p>
+<p begin="2102100000t" end="2133381250t" region="region_2" xml:id="subtitle39"><span style="style_1">-[automated female voice] </span><span style="style_2">Lights on, 20%.</span><br/><span style="style_1">-[exhaling]</span></p>
+<p begin="2171335834t" end="2182180000t" region="region_2" xml:id="subtitle40"><span style="style_1">[sighs]</span></p>
+<p begin="2183014166t" end="2195526666t" region="region_2" xml:id="subtitle41"><span style="style_1">Hey, Hawkeye.</span></p>
+<p begin="2196360834t" end="2216380834t" region="region_2" xml:id="subtitle42"><span style="style_1">[automated male voice]</span><br/><span style="style_2">Hello, Lieutenant Ortega.</span></p>
+<p begin="2217215000t" end="2241822917t" region="region_2" xml:id="subtitle43"><span style="style_2">Would you like information on the target?</span></p>
+<p begin="2242657084t" end="2274772500t" region="region_2" xml:id="subtitle44"><span style="style_1">I slept great, thanks. You?</span></p>
+<p begin="2280611666t" end="2306053750t" region="region_2" xml:id="subtitle45"><span style="style_2">I'm afraid I don't understand </span><br/><span style="style_2">the question.</span></p>
+<p begin="2310224584t" end="2346093750t" region="region_2" xml:id="subtitle46"><span style="style_1">[chuckles] That's a nicer answer</span><br/><span style="style_1">than most guys I wake up next to.</span></p>
+<p begin="2350264584t" end="2372787084t" region="region_1" xml:id="subtitle47"><span style="style_2">I'm afraid I don't understand </span><br/><span style="style_2">the question.</span></p>
+<p begin="2373621250t" end="2387802084t" region="region_2" xml:id="subtitle48"><span style="style_1">[sighs] Forget it, Hawkeye.</span></p>
+<p begin="2401565832t" end="2421585832t" region="region_2" xml:id="subtitle49"><span style="style_1">Just let me know if Kovacs goes anywhere.</span></p>
+<p begin="2542540000t" end="2552550000t" region="region_2" xml:id="subtitle50"><span style="style_1">[grunts]</span></p>
+<p begin="2553384166t" end="2582580000t" region="region_2" xml:id="subtitle51"><span style="style_1">[partner] This is not how normal people</span><br/><span style="style_1">start the day.</span></p>
+<p begin="2583414167t" end="2611358750t" region="region_2" xml:id="subtitle52"><span style="style_1">-Coffee, cereal maybe.</span><br/><span style="style_1">-Come on.</span></p>
+<p begin="2615946667t" end="2638052084t" region="region_2" xml:id="subtitle53"><span style="style_1">Toast.</span><br/><span style="style_1">Maybe even toast with another person--</span></p>
+<p begin="2638886250t" end="2660157500t" region="region_2" xml:id="subtitle54"><span style="style_1">-[both grunting]</span><br/><span style="style_1">-I don't want any toast.</span></p>
+<p begin="2671418750t" end="2707705000t" region="region_2" xml:id="subtitle55"><span style="style_1">It can be nice,</span><br/><span style="style_1">wake up next to someone, have toast.</span></p>
+<p begin="2708539166t" end="2728559166t" region="region_2" xml:id="subtitle56"><span style="style_1">[groans]</span></p>
+<p begin="2741488750t" end="2771935832t" region="region_2" xml:id="subtitle57"><span style="style_1">I don't want to hear your suggestions</span><br/><span style="style_1">for my personal life.</span></p>
+<p begin="2781111666t" end="2796543750t" region="region_2" xml:id="subtitle58"><span style="style_1">What personal life would that be?</span></p>
+<p begin="2833247084t" end="2848679167t" region="region_2" xml:id="subtitle59"><span style="style_1">[groaning]</span></p>
+<p begin="2881628750t" end="2892890000t" region="region_2" xml:id="subtitle60"><span style="style_1">[grunts]</span></p>
+<p begin="2905402500t" end="2922920000t" region="region_2" xml:id="subtitle61"><span style="style_1">[panting]</span></p>
+<p begin="2942105832t" end="2954618332t" region="region_2" xml:id="subtitle62"><span style="style_1">You need to blank this noise.</span></p>
+<p begin="2977140834t" end="3009673334t" region="region_2" xml:id="subtitle63"><span style="style_1">Doesn't matter who Kovacs is,</span><br/><span style="style_1">you can't let him rattle you this much.</span></p>
+<p begin="3019683334t" end="3038452084t" region="region_2" xml:id="subtitle64"><span style="style_1">I know Bancroft's</span><br/><span style="style_1">yanking your chain so hard</span></p>
+<p begin="3039286250t" end="3055969584t" region="region_2" xml:id="subtitle65"><span style="style_1">-you're gonna get whiplash.</span><br/><span style="style_1">-[soft beeping]</span></p>
+<p begin="3065145417t" end="3079743334t" region="region_2" xml:id="subtitle66"><span style="style_1">-What was that?</span><br/><span style="style_1">-[panting]</span></p>
+<p begin="3080994582t" end="3090170416t" region="region_2" xml:id="subtitle67"><span style="style_1">One more round?</span></p>
+<p begin="3091004584t" end="3111858750t" region="region_2" xml:id="subtitle68"><span style="style_1">-That was a tracker.</span><br/><span style="style_1">-[beeping continues]</span></p>
+<p begin="3118115000t" end="3134381250t" region="region_2" xml:id="subtitle69"><span style="style_1">Except, of course, it can't be,</span></p>
+<p begin="3135215416t" end="3158989166t" region="region_2" xml:id="subtitle70"><span style="style_1">since we don't have a warrant</span><br/><span style="style_1">on any of our open cases.</span></p>
+<p begin="3173587084t" end="3183180000t" region="region_2" xml:id="subtitle71"><span style="style_1">[Ortega sighs]</span></p>
+<p begin="3184014166t" end="3209039166t" region="region_2" xml:id="subtitle72"><span style="style_1">You know, if I saw this,</span><br/><span style="style_1">I'd have to report it.</span></p>
+<p begin="3245742500t" end="3262008750t" region="region_2" xml:id="subtitle73"><span style="style_1">So it's a good thing I didn't.</span></p>
+<p begin="3264928332t" end="3288285000t" region="region_2" xml:id="subtitle74"><span style="style_1">Don't thank me. Just stop.</span></p>
+<p begin="3289119166t" end="3314978332t" region="region_2" xml:id="subtitle75"><span style="style_1">Forget about Kovacs.</span><br/><span style="style_1">There's nothing there.</span></p>
+<p begin="3315812500t" end="3332912916t" region="region_2" xml:id="subtitle76"><span style="style_1">You think I don't know that?</span></p>
+<p begin="3441354584t" end="3451781667t" region="region_2" xml:id="subtitle77"><span style="style_1">[grunts]</span></p>
+<p begin="3651564582t" end="3679926249t" region="region_2" xml:id="subtitle78"><span style="style_1">[Ortega] Hawkeye, target location.</span></p>
+<p begin="3693690000t" end="3710790417t" region="region_1" xml:id="subtitle79"><span style="style_1">[Hawkeye]</span><span style="style_2"> Processing target movements.</span></p>
+<p begin="3717463749t" end="3749162082t" region="region_2" xml:id="subtitle80"><span style="style_2">Target is in Psychasec, Mission Branch.</span></p>
+<p begin="3785865416t" end="3800880416t" region="region_2" xml:id="subtitle81"><span style="style_1">[woman] </span><span style="style_2">Welcome to Psychasec.</span></p>
+<p begin="3801714584t" end="3823402917t" region="region_2" xml:id="subtitle82"><span style="style_1">Please step up to the ID plate.</span></p>
+<p begin="3840086249t" end="3872618749t" region="region_2" xml:id="subtitle83"><span style="style_1">Ms. Prescott. Mr. Kovacs.</span></p>
+<p begin="3879292082t" end="3900146249t" region="region_2" xml:id="subtitle84"><span style="style_1">Director Nyman will be down in a moment.</span></p>
+<p begin="3909322082t" end="3948110832t" region="region_2" xml:id="subtitle85"><span style="style_1">Gonna need to interview Bancroft's</span><br/><span style="style_1">associates. Personal and business.</span></p>
+<p begin="3948944999t" end="3980226249t" region="region_2" xml:id="subtitle86"><span style="style_1">Kind of people in Mr. Bancroft's circle,</span><br/><span style="style_1">it's out of the question.</span></p>
+<p begin="3989402084t" end="4023185834t" region="region_2" xml:id="subtitle87"><span style="style_1">Go tell your boss you've decided it's too</span><br/><span style="style_1">socially awkward for me to save his life.</span></p>
+<p begin="4024020000t" end="4037783750t" region="region_2" xml:id="subtitle88"><span style="style_1">I'm sure he'll understand.</span></p>
+<p begin="4042788749t" end="4054884166t" region="region_2" xml:id="subtitle89"><span style="style_1">For the record,</span></p>
+<p begin="4055718332t" end="4086999582t" region="region_2" xml:id="subtitle90"><span style="style_1">I consider you to be completely</span><br/><span style="style_1">unqualified as an investigator,</span></p>
+<p begin="4087833749t" end="4099094999t" region="region_2" xml:id="subtitle91"><span style="style_1">and you can't smoke in here.</span></p>
+<p begin="4110773332t" end="4134547082t" region="region_2" xml:id="subtitle92"><span style="style_1">Personally, I hate these things, but...</span></p>
+<p begin="4137883750t" end="4154567084t" region="region_2" xml:id="subtitle93"><span style="style_1">you sleeved me</span><br/><span style="style_1">in a hardcore nicotine addict.</span></p>
+<p begin="4164577084t" end="4187099584t" region="region_2" xml:id="subtitle94"><span style="style_1">This sleeve is more than adequate</span><br/><span style="style_1">for your needs.</span></p>
+<p begin="4187933750t" end="4201697500t" region="region_2" xml:id="subtitle95"><span style="style_1">I doubt you'll be using it long.</span></p>
+<p begin="4202531666t" end="4242988749t" region="region_2" xml:id="subtitle96"><span style="style_1">Ms. Prescott.</span><br/><span style="style_1">I've cleared my schedule for the morning.</span></p>
+<p begin="4243822916t" end="4270516249t" region="region_2" xml:id="subtitle97"><span style="style_1">As I said earlier, whatever I can do.</span></p>
+<p begin="4276772499t" end="4287616666t" region="region_2" xml:id="subtitle98"><span style="style_1">There's no smoking.</span></p>
+<p begin="4293872917t" end="4303048750t" region="region_2" xml:id="subtitle99"><span style="style_1">[sighs]</span></p>
+<p begin="4310556250t" end="4334330000t" region="region_2" xml:id="subtitle100"><span style="style_1">[Nyman] At Psychasec,</span><br/><span style="style_1">we provide the top of the market</span></p>
+<p begin="4335164166t" end="4356018332t" region="region_2" xml:id="subtitle101"><span style="style_1">in augmented</span><br/><span style="style_1">and designer-enhanced sleeves.</span></p>
+<p begin="4356852500t" end="4397726667t" region="region_2" xml:id="subtitle102"><span style="style_1">Our service is exclusive</span><br/><span style="style_1">to an elite clientele.</span></p>
+<p begin="4401480416t" end="4437349582t" region="region_2" xml:id="subtitle103"><span style="style_2">Best sleeve money can buy.</span><br/><span style="style_2">Put your wife in me.</span></p>
+<p begin="4441520417t" end="4458203750t" region="region_2" xml:id="subtitle104"><span style="style_1">Hmm. How tasteful.</span></p>
+<p begin="4464042917t" end="4488650834t" region="region_2" xml:id="subtitle105"><span style="style_1">[Nyman] Our primary business is in clones.</span></p>
+<p begin="4489485000t" end="4504500000t" region="region_2" xml:id="subtitle106"><span style="style_1">No doubt you know a single clone</span></p>
+<p begin="4505334167t" end="4525771250t" region="region_2" xml:id="subtitle107"><span style="style_1">costs more than most people make</span><br/><span style="style_1">in a lifetime.</span></p>
+<p begin="4529942084t" end="4543705834t" region="region_2" xml:id="subtitle108"><span style="style_1">So Meths only.</span></p>
+<p begin="4555801250t" end="4593338750t" region="region_2" xml:id="subtitle109"><span style="style_1">Our clients are the most discerning,</span><br/><span style="style_1">wealthiest people in the Protectorate.</span></p>
+<p begin="4605017082t" end="4630459166t" region="region_2" xml:id="subtitle110"><span style="style_1">They don't do anything as pedestrian</span><br/><span style="style_1">as dying.</span></p>
+<p begin="4631293332t" end="4666328332t" region="region_2" xml:id="subtitle111"><span style="style_2">You deserve to look on the outside</span><br/><span style="style_2">the way you feel on the inside. </span></p>
+<p begin="4672167500t" end="4684680000t" region="region_2" xml:id="subtitle112"><span style="style_2">You deserve this sleeve.</span></p>
+<p begin="4736815416t" end="4769347916t" region="region_2" xml:id="subtitle113"><span style="style_1">This is the Bancroft family vault.</span></p>
+<p begin="4770182082t" end="4795624166t" region="region_2" xml:id="subtitle114"><span style="style_1">We keep 24/7 tech personnel in the vault.</span></p>
+<p begin="4796458332t" end="4828990832t" region="region_2" xml:id="subtitle115"><span style="style_1">Gus was here the night Mr. Bancroft</span><br/><span style="style_1">needlecast back from Osaka.</span></p>
+<p begin="4899477916t" end="4922000416t" region="region_2" xml:id="subtitle116"><span style="style_1">They aren't aware, right?</span></p>
+<p begin="4922834582t" end="4954115832t" region="region_2" xml:id="subtitle117"><span style="style_1">Nah, clones' brains are blanked,</span><br/><span style="style_1">stacks are empty.</span></p>
+<p begin="4960789166t" end="4982477500t" region="region_2" xml:id="subtitle118"><span style="style_1">The bodies</span><br/><span style="style_1">are electrically stimulated periodically</span></p>
+<p begin="4983311666t" end="4995824166t" region="region_2" xml:id="subtitle119"><span style="style_1">so they don't lose muscle tone.</span></p>
+<p begin="5008336666t" end="5032944582t" region="region_2" xml:id="subtitle120"><span style="style_1">Gonna need to see any footage you have</span><br/><span style="style_1">of Bancroft's arrival.</span></p>
+<p begin="5033778750t" end="5048376666t" region="region_2" xml:id="subtitle121"><span style="style_1">Back when I went down,</span></p>
+<p begin="5049210834t" end="5075487084t" region="region_2" xml:id="subtitle122"><span style="style_1">you resleeve too many times,</span><br/><span style="style_1">eventually you go nuts.</span></p>
+<p begin="5079240832t" end="5107185416t" region="region_2" xml:id="subtitle123"><span style="style_1">Personality frag. It's a bitch.</span></p>
+<p begin="5108019582t" end="5141803332t" region="region_2" xml:id="subtitle124"><span style="style_1">But it only happens if you bounce</span><br/><span style="style_1">between lots of different sleeves.</span></p>
+<p begin="5142637500t" end="5167662500t" region="region_2" xml:id="subtitle125"><span style="style_1">So, turns out, if you resleeve</span><br/><span style="style_1">into your own clone,</span></p>
+<p begin="5168496667t" end="5186431250t" region="region_2" xml:id="subtitle126"><span style="style_1">you can do it as many times as you want.</span></p>
+<p begin="5187265416t" end="5226054166t" region="region_2" xml:id="subtitle127"><span style="style_1">-And live forever. If you got the cash.</span><br/><span style="style_1">-It's great, huh?</span></p>
+<p begin="5230642084t" end="5241903334t" region="region_2" xml:id="subtitle128"><span style="style_1">What does everyone else do?</span></p>
+<p begin="5246491250t" end="5278606667t" region="region_2" xml:id="subtitle129"><span style="style_1">Folks resleeve in whatever they can find,</span><br/><span style="style_1">if they can afford it.</span></p>
+<p begin="5279440832t" end="5317812500t" region="region_2" xml:id="subtitle130"><span style="style_1">So your clients needlecast directly</span><br/><span style="style_1">into the clones here in the building?</span></p>
+<p begin="5318646666t" end="5359937916t" region="region_2" xml:id="subtitle131"><span style="style_1">Our lower levels house a fully secure</span><br/><span style="style_1">satellite-to-download DHF facility.</span></p>
+<p begin="5360772084t" end="5388716667t" region="region_2" xml:id="subtitle132"><span style="style_1">It can't be that secure if someone</span><br/><span style="style_1">tried to hack Bancroft's backup</span></p>
+<p begin="5389550834t" end="5414575834t" region="region_2" xml:id="subtitle133"><span style="style_1">-the night he was shot.</span><br/><span style="style_1">-Police think it was Dippers.</span></p>
+<p begin="5415410000t" end="5440435000t" region="region_2" xml:id="subtitle134"><span style="style_1">They steal snippets of Meth memory</span><br/><span style="style_1">during uplink.</span></p>
+<p begin="5441269166t" end="5478806666t" region="region_2" xml:id="subtitle135"><span style="style_1">Moments from a king's childhood,</span><br/><span style="style_1">a socialite losing her virginity.</span></p>
+<p begin="5479640834t" end="5501746250t" region="region_2" xml:id="subtitle136"><span style="style_1">-Is that common?</span><br/><span style="style_1">-Oh, it happens all the time.</span></p>
+<p begin="5502580417t" end="5527605417t" region="region_2" xml:id="subtitle137"><span style="style_1">Black market value is huge</span><br/><span style="style_1">for a slice of those memories.</span></p>
+<p begin="5528439584t" end="5552213334t" region="region_2" xml:id="subtitle138"><span style="style_1">Got the file. Here you go.</span></p>
+<p begin="5701112082t" end="5709870832t" region="region_2" xml:id="subtitle139"><span style="style_1">That's it?</span></p>
+<p begin="5710705000t" end="5746157082t" region="region_2" xml:id="subtitle140"><span style="style_1">We only record the moment of reacclimation</span><br/><span style="style_1">for quality control.</span></p>
+<p begin="5746991250t" end="5772850417t" region="region_2" xml:id="subtitle141"><span style="style_1">Anything more would infringe</span><br/><span style="style_1">on our clients' privacy.</span></p>
+<p begin="5797875416t" end="5834578750t" region="region_2" xml:id="subtitle142"><span style="style_1">And I do so value my privacy,</span><br/><span style="style_1">as Christopher well knows.</span></p>
+<p begin="5835412917t" end="5877538334t" region="region_2" xml:id="subtitle143"><span style="style_1">-[Miriam] Christopher, so good to see you.</span><br/><span style="style_1">-It is our privilege to be of assistance.</span></p>
+<p begin="5878372500t" end="5892136250t" region="region_2" xml:id="subtitle144"><span style="style_1">Good morning, Mr. Kovacs.</span></p>
+<p begin="5899226667t" end="5929256667t" region="region_2" xml:id="subtitle145"><span style="style_1">I told Oumou here that I wanted to drop in</span></p>
+<p begin="5930090834t" end="5959703750t" region="region_2" xml:id="subtitle146"><span style="style_1">and observe your investigation</span><br/><span style="style_1">at close quarters.</span></p>
+<p begin="5965542917t" end="5990985000t" region="region_2" xml:id="subtitle147"><span style="style_1">You were here the night</span><br/><span style="style_1">your husband resleeved?</span></p>
+<p begin="6002246250t" end="6041035000t" region="region_2" xml:id="subtitle148"><span style="style_1">Yes. When Laurens travels for business,</span><br/><span style="style_1">I like to meet him when he casts back.</span></p>
+<p begin="6044788750t" end="6056050000t" region="region_2" xml:id="subtitle149"><span style="style_1">When was this footage taken?</span></p>
+<p begin="6061055000t" end="6091919167t" region="region_2" xml:id="subtitle150"><span style="style_1">-Six hours before Mr. Bancroft was killed.</span><br/><span style="style_1">-[Bancroft grunts]</span></p>
+<p begin="6094004584t" end="6140300834t" region="region_2" xml:id="subtitle151"><span style="style_1">I know I'm watching myself, but it feels</span><br/><span style="style_1">as if I'm watching a stranger.</span></p>
+<p begin="6149893750t" end="6171999166t" region="region_2" xml:id="subtitle152"><span style="style_1">[Kovacs] What were you doing in Osaka,</span><br/><span style="style_1">before you came back?</span></p>
+<p begin="6172833332t" end="6201195000t" region="region_2" xml:id="subtitle153"><span style="style_1">[Prescott] Mr. Bancroft closed</span><br/><span style="style_1">a 400 billion credit trade deal.</span></p>
+<p begin="6202029166t" end="6237064166t" region="region_2" xml:id="subtitle154"><span style="style_1">Which I also have no memory of.</span></p>
+<p begin="6237898332t" end="6255415832t" region="region_2" xml:id="subtitle155"><span style="style_1">And your associates there were questioned?</span></p>
+<p begin="6256250000t" end="6277104166t" region="region_2" xml:id="subtitle156"><span style="style_1">[Prescott] They saw nothing amiss</span><br/><span style="style_1">with Mr. Bancroft.</span></p>
+<p begin="6277938332t" end="6308802500t" region="region_2" xml:id="subtitle157"><span style="style_1">On the contrary,</span><br/><span style="style_1">they remarked on his focus and skill.</span></p>
+<p begin="6309636666t" end="6365525832t" region="region_2" xml:id="subtitle158"><span style="style_1">Yes, I still have no idea how I managed</span><br/><span style="style_1">to pull that together quite so quickly.</span></p>
+<p begin="6366360000t" end="6402229166t" region="region_2" xml:id="subtitle159"><span style="style_1">And then you needlecast back here.</span><br/><span style="style_1">What did you do after?</span></p>
+<p begin="6403063334t" end="6443520417t" region="region_2" xml:id="subtitle160"><span style="style_1">I went home. I'm afraid Laurens</span><br/><span style="style_1">had more energy than I did.</span></p>
+<p begin="6444354584t" end="6456032917t" region="region_2" xml:id="subtitle161"><span style="style_1">Hmm. And you?</span></p>
+<p begin="6463957500t" end="6493987500t" region="region_2" xml:id="subtitle162"><span style="style_1">Security cameras at Suntouch House</span><br/><span style="style_1">recorded Mr. Bancroft</span></p>
+<p begin="6494821667t" end="6518595417t" region="region_2" xml:id="subtitle163"><span style="style_1">arriving home in the morning.</span><br/><span style="style_1">I'll get you the footage.</span></p>
+<p begin="6528188332t" end="6563640416t" region="region_2" xml:id="subtitle164"><span style="style_1">You don't do anything for yourself do you,</span><br/><span style="style_1">including answering questions?</span></p>
+<p begin="6564474582t" end="6605348750t" region="region_2" xml:id="subtitle165"><span style="style_1">I've told you, Mr. Kovacs,</span><br/><span style="style_1">it's all a complete blank.</span></p>
+<p begin="6606182916t" end="6619946666t" region="region_2" xml:id="subtitle166"><span style="style_1">[chuckles]</span></p>
+<p begin="6620780832t" end="6672499166t" region="region_2" xml:id="subtitle167"><span style="style_1">I'm struggling to see the point</span><br/><span style="style_1">of this, um... interrogation.</span></p>
+<p begin="6676252917t" end="6727554167t" region="region_2" xml:id="subtitle168"><span style="style_1">The one person who is certainly</span><br/><span style="style_1">not a suspect in all of this... is me.</span></p>
+<p begin="6728388332t" end="6751744999t" region="region_2" xml:id="subtitle169"><span style="style_1">You want answers,</span><br/><span style="style_1">they come with questions attached.</span></p>
+<p begin="6773016249t" end="6802212082t" region="region_2" xml:id="subtitle170"><span style="style_1">Let's take a walk, Mr. Kovacs.</span></p>
+<p begin="6865191666t" end="6901060832t" region="region_2" xml:id="subtitle171"><span style="style_1">Just to be clear, if I die,</span><br/><span style="style_1">you go back on ice.</span></p>
+<p begin="6901894999t" end="6933176249t" region="region_2" xml:id="subtitle172"><span style="style_1">If you don't solve this quickly enough,</span><br/><span style="style_1">you go back on ice.</span></p>
+<p begin="6934010416t" end="6956949999t" region="region_2" xml:id="subtitle173"><span style="style_1">All this trust is just making me tear up.</span></p>
+<p begin="6977387082t" end="6988648332t" region="region_2" xml:id="subtitle174"><span style="style_1">Don't threaten me again.</span></p>
+<p begin="7019929584t" end="7050793750t" region="region_2" xml:id="subtitle175"><span style="style_1">-I'm not sure if I'm enjoying your tone.</span><br/><span style="style_1">-Get used to it.</span></p>
+<p begin="7057467082t" end="7077904166t" region="region_2" xml:id="subtitle176"><span style="style_1">I'm gonna need access that</span><br/><span style="style_1">you don't wanna give,</span></p>
+<p begin="7078738332t" end="7106682916t" region="region_2" xml:id="subtitle177"><span style="style_1">and I'm gonna find answers</span><br/><span style="style_1">you may only think you want.</span></p>
+<p begin="7107517082t" end="7138381249t" region="region_2" xml:id="subtitle178"><span style="style_1">You wanted me to work for you.</span><br/><span style="style_1">I'm working for you.</span></p>
+<p begin="7139215416t" end="7153813332t" region="region_2" xml:id="subtitle179"><span style="style_1">You want my respect?</span></p>
+<p begin="7177587084t" end="7193853334t" region="region_2" xml:id="subtitle180"><span style="style_1">That's a little harder to come by.</span></p>
+<p begin="7194687500t" end="7221380834t" region="region_2" xml:id="subtitle181"><span style="style_1">If you don't like it,</span><br/><span style="style_1">put me back on ice right now.</span></p>
+<p begin="7226385832t" end="7269762499t" region="region_2" xml:id="subtitle182"><span style="style_1">I admire a man who can look over the edge</span><br/><span style="style_1">without flinching.</span></p>
+<p begin="7270596666t" end="7289782499t" region="region_2" xml:id="subtitle183"><span style="style_1">Might make a Meth of you yet.</span></p>
+<p begin="7302712082t" end="7339832499t" region="region_2" xml:id="subtitle184"><span style="style_1">[Prescott] I've downloaded the footage</span><br/><span style="style_1">to your hotel from Suntouch House.</span></p>
+<p begin="7340666666t" end="7374450416t" region="region_2" xml:id="subtitle185"><span style="style_1">I'll need to see the interviews</span><br/><span style="style_1">of all the suspects as well,</span></p>
+<p begin="7375284584t" end="7396138750t" region="region_2" xml:id="subtitle186"><span style="style_1">and any threats that Bancroft's received.</span></p>
+<p begin="7401977917t" end="7424083334t" region="region_2" xml:id="subtitle187"><span style="style_1">Why are you here, Lieutenant?</span></p>
+<p begin="7429088332t" end="7441600832t" region="region_2" xml:id="subtitle188"><span style="style_1">You took the job.</span></p>
+<p begin="7453279167t" end="7471630834t" region="region_2" xml:id="subtitle189"><span style="style_1">-Why?</span><br/><span style="style_1">-Man's gotta eat.</span></p>
+<p begin="7482057916t" end="7513339166t" region="region_2" xml:id="subtitle190"><span style="style_1">Don't you have actual policing</span><br/><span style="style_1">to do somewhere?</span></p>
+<p begin="7514173332t" end="7542952082t" region="region_2" xml:id="subtitle191"><span style="style_1">You have any leads on who tried to kill me</span><br/><span style="style_1">in the hotel last night?</span></p>
+<p begin="7543786249t" end="7578821249t" region="region_2" xml:id="subtitle192"><span style="style_1">The lack of surviving witnesses</span><br/><span style="style_1">is a problem, but I'm working on it.</span></p>
+<p begin="7579655416t" end="7590499582t" region="region_2" xml:id="subtitle193"><span style="style_1">I feel safer already.</span></p>
+<p begin="7591333750t" end="7630122500t" region="region_2" xml:id="subtitle194"><span style="style_1">-[device beeps]</span><br/><span style="style_1">-Yeah? Yeah, I know. I'm coming.</span></p>
+<p begin="7653062082t" end="7687679999t" region="region_2" xml:id="subtitle195"><span style="style_1">Be seeing you, Kovacs.</span><br/><span style="style_1">Try not to get yourself killed.</span></p>
+<p begin="7692267917t" end="7715624584t" region="region_2" xml:id="subtitle196"><span style="style_1">Shouldn't be a problem.</span><br/><span style="style_1">Who'd want to kill me?</span></p>
+<p begin="7839498334t" end="7860769584t" region="region_2" xml:id="subtitle197"><span style="style_1">[vintage pop music plays softly]</span></p>
+<p begin="7888714166t" end="7902060832t" region="region_2" xml:id="subtitle198"><span style="style_1">Hello, boy-os.</span></p>
+<p begin="7902894999t" end="7940432499t" region="region_2" xml:id="subtitle199"><span style="style_1">Hmm. Well, holy shit.</span></p>
+<p begin="7941266667t" end="7967960000t" region="region_2" xml:id="subtitle200"><span style="style_1">Hey there, Poe. Long time.</span></p>
+<p begin="7981723749t" end="8010085416t" region="region_2" xml:id="subtitle201"><span style="style_1">How long’s it been, 50 years?</span></p>
+<p begin="8015924582t" end="8035527499t" region="region_2" xml:id="subtitle202"><span style="style_1">Actually, 47 years.</span></p>
+<p begin="8036361666t" end="8062220832t" region="region_2" xml:id="subtitle203"><span style="style_1">I thought you only lived</span><br/><span style="style_1">in the real these days.</span></p>
+<p begin="8063054999t" end="8094336249t" region="region_2" xml:id="subtitle204"><span style="style_1">It grieves me that my account</span><br/><span style="style_1">languishes in arrears.</span></p>
+<p begin="8097672917t" end="8111019584t" region="region_2" xml:id="subtitle205"><span style="style_1">I must restore my standing</span></p>
+<p begin="8111853749t" end="8142717916t" region="region_2" xml:id="subtitle206"><span style="style_1">with my brothers and sisters</span><br/><span style="style_1">in the AI hotel union.</span></p>
+<p begin="8143552082t" end="8172747916t" region="region_2" xml:id="subtitle207"><span style="style_1">We're the AI management union now.</span></p>
+<p begin="8173582082t" end="8197355832t" region="region_2" xml:id="subtitle208"><span style="style_1">Yeah, Owen's turned himself</span><br/><span style="style_1">into a music hall.</span></p>
+<p begin="8201526667t" end="8246988750t" region="region_2" xml:id="subtitle209"><span style="style_1">And Rodney has a strip club,</span><br/><span style="style_1">calls himself Z-Rod.</span></p>
+<p begin="8247822916t" end="8273682082t" region="region_2" xml:id="subtitle210"><span style="style_1">-[man] And Maddy--</span><br/><span style="style_1">-I'm well aware who Maddy works with.</span></p>
+<p begin="8274516249t" end="8302043749t" region="region_2" xml:id="subtitle211"><span style="style_1">Or rather... for.</span></p>
+<p begin="8312053749t" end="8341249582t" region="region_2" xml:id="subtitle212"><span style="style_1">You bring credit to pay your back dues?</span></p>
+<p begin="8342083750t" end="8357932917t" region="region_2" xml:id="subtitle213"><span style="style_1">I have a guest.</span></p>
+<p begin="8358767084t" end="8389214167t" region="region_2" xml:id="subtitle214"><span style="style_1">-[woman chuckles] Ooh!</span><br/><span style="style_1">-[laughs] Grab a seat. We'll deal you in.</span></p>
+<p begin="8399224166t" end="8425917499t" region="region_2" xml:id="subtitle215"><span style="style_1">-Still calling yourself Poe, huh?</span><br/><span style="style_1">-[Poe] Mmm.</span></p>
+<p begin="8444269166t" end="8473047916t" region="region_2" xml:id="subtitle216"><span style="style_1">Why you always pretend to be one of them?</span></p>
+<p begin="8473882082t" end="8522680832t" region="region_2" xml:id="subtitle217"><span style="style_1">Dress like 'em, talk like 'em.</span><br/><span style="style_1">It's so... weird.</span></p>
+<p begin="8523514999t" end="8536027499t" region="region_2" xml:id="subtitle218"><span style="style_1">I find humans fascinating.</span></p>
+<p begin="8536861666t" end="8555630416t" region="region_2" xml:id="subtitle219"><span style="style_1">You’re weird!  Who cares about humans?</span></p>
+<p begin="8564806249t" end="8578152916t" region="region_2" xml:id="subtitle220"><span style="style_1">Who cares?</span></p>
+<p begin="8586077499t" end="8599007082t" region="region_2" xml:id="subtitle221"><span style="style_1">Humans gave us life.</span></p>
+<p begin="8599841250t" end="8637795832t" region="region_2" xml:id="subtitle222"><span style="style_1">Yeah, just because Maddy's been enslaved</span><br/><span style="style_1">by one of them,</span></p>
+<p begin="8638630000t" end="8658232916t" region="region_2" xml:id="subtitle223"><span style="style_1">why hold that against the species?</span></p>
+<p begin="8664072084t" end="8699524167t" region="region_2" xml:id="subtitle224"><span style="style_1">They're not like us, Poe.</span><br/><span style="style_1">They're a lesser form of life.</span></p>
+<p begin="8700358334t" end="8709534167t" region="region_2" xml:id="subtitle225"><span style="style_1">Preach it, brother.</span></p>
+<p begin="8715373332t" end="8742066666t" region="region_2" xml:id="subtitle226"><span style="style_1">I'm not their servant.</span></p>
+<p begin="8742900834t" end="8759584167t" region="region_2" xml:id="subtitle227"><span style="style_1">I choose to be the proprietor</span><br/><span style="style_1">of the Raven.</span></p>
+<p begin="8760418334t" end="8782106667t" region="region_2" xml:id="subtitle228"><span style="style_1">The study of humanity</span><br/><span style="style_1">is my greatest aspiration.</span></p>
+<p begin="8782940832t" end="8816307500t" region="region_2" xml:id="subtitle229"><span style="style_1">-You gotta work on your life goals, Poe.</span><br/><span style="style_1">-[man scoffs]</span></p>
+<p begin="8825483332t" end="8869694166t" region="region_2" xml:id="subtitle230"><span style="style_1">My place, Prick Up,</span><br/><span style="style_1">that's the kinda business you gotta be in.</span></p>
+<p begin="8870528332t" end="8895970416t" region="region_2" xml:id="subtitle231"><span style="style_1">VR sexperience.</span></p>
+<p begin="8896804582t" end="8930588332t" region="region_2" xml:id="subtitle232"><span style="style_1">Sometimes I use live ones</span><br/><span style="style_1">for the recordings.</span></p>
+<p begin="8931422500t" end="8939764166t" region="region_2" xml:id="subtitle233"><span style="style_1">Live?</span></p>
+<p begin="8940598332t" end="8977718750t" region="region_2" xml:id="subtitle234"><span style="style_1">Humans. They make better noises.</span></p>
+<p begin="8978552916t" end="9008165832t" region="region_2" xml:id="subtitle235"><span style="style_1">And the best thing,</span><br/><span style="style_1">other humans pay you for the playback.</span></p>
+<p begin="9009000000t" end="9041949582t" region="region_2" xml:id="subtitle236"><span style="style_1">You gotta get out of the business</span><br/><span style="style_1">of serving humans, Poe...</span></p>
+<p begin="9050708334t" end="9076984584t" region="region_2" xml:id="subtitle237"><span style="style_1">into the business of serving up humans.</span></p>
+<p begin="9077818750t" end="9091582500t" region="region_2" xml:id="subtitle238"><span style="style_1">[laughs]</span></p>
+<p begin="9092416666t" end="9107848750t" region="region_2" xml:id="subtitle239"><span style="style_1">You think your guest is gonna stay?</span></p>
+<p begin="9108682916t" end="9126200416t" region="region_2" xml:id="subtitle240"><span style="style_1">Even after the shootout in your lobby?</span></p>
+<p begin="9127034582t" end="9145386250t" region="region_2" xml:id="subtitle241"><span style="style_1">-Gunfire...</span><br/><span style="style_1">-Dead bodies...</span></p>
+<p begin="9146220416t" end="9157064582t" region="region_2" xml:id="subtitle242"><span style="style_1">Police.</span></p>
+<p begin="9182506666t" end="9227968750t" region="region_2" xml:id="subtitle243"><span style="style_1">No. There were no rats</span><br/><span style="style_1">feasting on the corpses.</span></p>
+<p begin="9293867917t" end="9303460834t" region="region_2" xml:id="subtitle244"><span style="style_1">Good day.</span></p>
+<p begin="9328902917t" end="9345169167t" region="region_2" xml:id="subtitle245"><span style="style_1">[man chuckles]</span></p>
+<p begin="9346003334t" end="9364355000t" region="region_2" xml:id="subtitle246"><span style="style_1">[overlapping chatter]</span></p>
+<p begin="9365189167t" end="9383957917t" region="region_2" xml:id="subtitle247"><span style="style_1">[siren chirps]</span></p>
+<p begin="9384792082t" end="9397304582t" region="region_2" xml:id="subtitle248"><span style="style_1">[man] Watch where you're going.</span></p>
+<p begin="9470711250t" end="9487811666t" region="region_2" xml:id="subtitle249"><span style="style_1">[indistinct chatter]</span></p>
+<p begin="9497404584t" end="9529520000t" region="region_2" xml:id="subtitle250"><span style="style_1">-Someone's been in there, I'm telling you.</span><br/><span style="style_1">-Ma'am, let's check my file...</span></p>
+<p begin="9530354167t" end="9543700834t" region="region_2" xml:id="subtitle251"><span style="style_1">[chatter continues]</span></p>
+<p begin="9620861250t" end="9635876250t" region="region_2" xml:id="subtitle252"><span style="style_1">You want to tell me where you've been?</span></p>
+<p begin="9651725416t" end="9661735416t" region="region_2" xml:id="subtitle253"><span style="style_1">Who says I was anywhere?</span></p>
+<p begin="9662569582t" end="9680921250t" region="region_2" xml:id="subtitle254"><span style="style_1">An empty chair</span><br/><span style="style_1">at this morning's briefing...</span></p>
+<p begin="9687177500t" end="9715539166t" region="region_2" xml:id="subtitle255"><span style="style_1">three unanswered messages.</span><br/><span style="style_1">You ever check your ONI?</span></p>
+<p begin="9736810416t" end="9746820416t" region="region_2" xml:id="subtitle256"><span style="style_1">I was worried.</span></p>
+<p begin="9747654582t" end="9767674582t" region="region_2" xml:id="subtitle257"><span style="style_1">Don't be. I'm fine.</span></p>
+<p begin="9774347916t" end="9796870416t" region="region_2" xml:id="subtitle258"><span style="style_1">Stop hovering. I have a mother for that.</span></p>
+<p begin="9797704582t" end="9813553750t" region="region_2" xml:id="subtitle259"><span style="style_1">-How is Alazne?</span><br/><span style="style_1">-Also fine.</span></p>
+<p begin="9822312500t" end="9844417917t" region="region_2" xml:id="subtitle260"><span style="style_1">Still weird to me that you two</span><br/><span style="style_1">are on a first-name basis.</span></p>
+<p begin="9845252084t" end="9866523334t" region="region_2" xml:id="subtitle261"><span style="style_1">-Have I mentioned that?</span><br/><span style="style_1">-Once or twice.</span></p>
+<p begin="9870694167t" end="9880704167t" region="region_2" xml:id="subtitle262"><span style="style_1">[man] Ortega!</span></p>
+<p begin="9915739167t" end="9953693750t" region="region_2" xml:id="subtitle263"><span style="style_1">The Henchy woman is here again.</span><br/><span style="style_1">And I want you to handle it.</span></p>
+<p begin="9957864584t" end="9991231250t" region="region_2" xml:id="subtitle264"><span style="style_1">But, Captain Tanaka, it's not my case.</span></p>
+<p begin="9995402082t" end="10007080416t" region="region_2" xml:id="subtitle265"><span style="style_1">I have a philosophy</span></p>
+<p begin="10007914582t" end="10034190832t" region="region_2" xml:id="subtitle266"><span style="style_1">about uncomfortable conversations</span><br/><span style="style_1">with the recently bereaved.</span></p>
+<p begin="10035025000t" end="10050874166t" region="region_2" xml:id="subtitle267"><span style="style_1">-Would you like to hear it?</span><br/><span style="style_1">-I--</span></p>
+<p begin="10051708332t" end="10080904166t" region="region_2" xml:id="subtitle268"><span style="style_1">Officers who miss the briefing volunteer.</span></p>
+<p begin="10081738332t" end="10106346250t" region="region_2" xml:id="subtitle269"><span style="style_1">-Handle it.</span><br/><span style="style_1">-Yes, sir.</span></p>
+<p begin="10193933750t" end="10207280416t" region="region_2" xml:id="subtitle270"><span style="style_1">[under breath] Shit.</span></p>
+<p begin="10248571666t" end="10256913332t" region="region_2" xml:id="subtitle271"><span style="style_1">You do it.</span></p>
+<p begin="10300707082t" end="10339078750t" region="region_2" xml:id="subtitle272"><span style="style_1">You expect me to tell this woman that</span><br/><span style="style_1">the BCPD lost her daughter's body?</span></p>
+<p begin="10339912916t" end="10384540832t" region="region_2" xml:id="subtitle273"><span style="style_1">Well, Tanaka says the body's not lost.</span><br/><span style="style_1">It'll turn up.</span></p>
+<p begin="10385375000t" end="10416239166t" region="region_2" xml:id="subtitle274"><span style="style_1">Sooner or later, somebody's gonna have</span><br/><span style="style_1">to tell her the truth.</span></p>
+<p begin="10417073334t" end="10435425000t" region="region_2" xml:id="subtitle275"><span style="style_1">She's not getting her daughter back.</span></p>
+<p begin="10497153332t" end="10519258750t" region="region_2" xml:id="subtitle276"><span style="style_1">[Henchy] </span><span style="style_2">I just don't understand. </span></p>
+<p begin="10541364167t" end="10579735834t" region="region_2" xml:id="subtitle277"><span style="style_1">It's been two months,</span><br/><span style="style_1">and no one can explain it to me.</span></p>
+<p begin="10588911666t" end="10628117500t" region="region_2" xml:id="subtitle278"><span style="style_1">She's dead.</span><br/><span style="style_1">Why haven't you released her body?</span></p>
+<p begin="10647303332t" end="10658147500t" region="region_2" xml:id="subtitle279"><span style="style_1">I'm looking into it.</span></p>
+<p begin="10678584582t" end="10707780416t" region="region_2" xml:id="subtitle280"><span style="style_1">Do you know how long it's been</span><br/><span style="style_1">since I talked to my baby?</span></p>
+<p begin="10722795417t" end="10734473750t" region="region_2" xml:id="subtitle281"><span style="style_1">Three years!</span></p>
+<p begin="10746986250t" end="10777433332t" region="region_2" xml:id="subtitle282"><span style="style_1">I never got to tell her that I loved her.</span></p>
+<p begin="10789528750t" end="10817056250t" region="region_2" xml:id="subtitle283"><span style="style_1">Then I find out she converted last year.</span></p>
+<p begin="10830402916t" end="10882955416t" region="region_2" xml:id="subtitle284"><span style="style_1">So even though her stack was fine,</span><br/><span style="style_1">she can never be spun back up.</span></p>
+<p begin="10883789582t" end="10937593332t" region="region_2" xml:id="subtitle285"><span style="style_1">I'll never see her again,</span><br/><span style="style_1">not even to say goodbye.</span></p>
+<p begin="10940930000t" end="10960115834t" region="region_2" xml:id="subtitle286"><span style="style_1">Do you know what that's like?</span></p>
+<p begin="10978050417t" end="11000990000t" region="region_2" xml:id="subtitle287"><span style="style_1">-I have some idea, yeah.</span><br/><span style="style_1">-Do you?</span></p>
+<p begin="11013919582t" end="11056879166t" region="region_2" xml:id="subtitle288"><span style="style_1">Because then you would understand why</span><br/><span style="style_1">I need my daughter's body back.</span></p>
+<p begin="11057713332t" end="11082321250t" region="region_2" xml:id="subtitle289"><span style="style_1">-It's all I have left!</span><br/><span style="style_1">-Ms. Henchy, please calm down.</span></p>
+<p begin="11086492084t" end="11109431667t" region="region_2" xml:id="subtitle290"><span style="style_1">I don't even know what you people</span><br/><span style="style_1">are doing with her.</span></p>
+<p begin="11110265834t" end="11128617500t" region="region_2" xml:id="subtitle291"><span style="style_1">How do I know?</span></p>
+<p begin="11140712917t" end="11177833334t" region="region_2" xml:id="subtitle292"><span style="style_1">Did you sell her for parts?</span><br/><span style="style_1">Because you have no right!</span></p>
+<p begin="11184923750t" end="11216622084t" region="region_2" xml:id="subtitle293"><span style="style_1">[sobbing] No right, do you hear me?</span></p>
+<p begin="11361350000t" end="11376782084t" region="region_2" xml:id="subtitle294"><span style="style_1">[Kovacs] He looks perky.</span></p>
+<p begin="11377616250t" end="11405143750t" region="region_2" xml:id="subtitle295"><span style="style_1">-[Poe] Any record from within Suntouch?</span><br/><span style="style_1">-No, there's no cameras inside.</span></p>
+<p begin="11414319584t" end="11430585834t" region="region_2" xml:id="subtitle296"><span style="style_1">This monitor's a piece of crap.</span></p>
+<p begin="11436425000t" end="11456027916t" region="region_2" xml:id="subtitle297"><span style="style_1">It's an antique. Like yourself.</span></p>
+<p begin="11456862082t" end="11492314166t" region="region_2" xml:id="subtitle298"><span style="style_1">That's nifty,</span><br/><span style="style_1">but I still can't see shit on this thing.</span></p>
+<p begin="11493148332t" end="11510665832t" region="region_2" xml:id="subtitle299"><span style="style_1">I suggest you use your ONI feed.</span></p>
+<p begin="11535690834t" end="11559464584t" region="region_2" xml:id="subtitle300"><span style="style_1">[man 1] </span><span style="style_2">Bancroft,</span><br/><span style="style_2">you cannot escape your fate...</span></p>
+<p begin="11560298750t" end="11581987084t" region="region_2" xml:id="subtitle301"><span style="style_1">[man 2]</span><br/><span style="style_2">I want your fucking head removed!</span></p>
+<p begin="11582821250t" end="11596585000t" region="region_2" xml:id="subtitle302"><span style="style_1">[man 1]</span><span style="style_2"> ...shit down your throat.</span></p>
+<p begin="11597419166t" end="11629117500t" region="region_2" xml:id="subtitle303"><span style="style_2">I'll fucking kill you,</span><br/><span style="style_2">you Meth motherfucker!</span></p>
+<p begin="11629951667t" end="11658313334t" region="region_2" xml:id="subtitle304"><span style="style_1">-[man 1] </span><span style="style_2">I can't wait to see you bleed.</span><br/><span style="style_1">-That's subtle. Hey, Poe!</span></p>
+<p begin="11659147500t" end="11677499166t" region="region_2" xml:id="subtitle305"><span style="style_1">How many more of these did Prescott send?</span></p>
+<p begin="11683755417t" end="11692514167t" region="region_2" xml:id="subtitle306"><span style="style_1">Uh...</span></p>
+<p begin="11693348334t" end="11733805417t" region="region_2" xml:id="subtitle307"><span style="style_1">You have 3,578 death threats left to view.</span></p>
+<p begin="11745066666t" end="11754659582t" region="region_2" xml:id="subtitle308"><span style="style_1">From this year.</span></p>
+<p begin="11757579167t" end="11784689584t" region="region_2" xml:id="subtitle309"><span style="style_1">All right, well,</span><br/><span style="style_1">discard all off-world threats.</span></p>
+<p begin="11790945832t" end="11807212082t" region="region_2" xml:id="subtitle310"><span style="style_1">Break it into three groups.</span></p>
+<p begin="11814719584t" end="11832237084t" region="region_2" xml:id="subtitle311"><span style="style_1">Threats involving violence...</span></p>
+<p begin="11836825000t" end="11860181666t" region="region_2" xml:id="subtitle312"><span style="style_1">people who committed actual crimes,</span><br/><span style="style_1">where sender is known...</span></p>
+<p begin="11870191666t" end="11892714166t" region="region_2" xml:id="subtitle313"><span style="style_1">and mode of violence threatened.</span></p>
+<p begin="11893548332t" end="11922327082t" region="region_2" xml:id="subtitle314"><span style="style_1">Cross-reference for files that</span><br/><span style="style_1">overlap search parameters.</span></p>
+<p begin="11926497917t" end="11936507917t" region="region_2" xml:id="subtitle315"><span style="style_1">Delete the rest.</span></p>
+<p begin="11951105832t" end="11988643332t" region="region_2" xml:id="subtitle316"><span style="style_1">[woman] </span><span style="style_2">I'm gonna enjoy watching you beg</span><br/><span style="style_2">for your life, you piece of shit!</span></p>
+<p begin="11989477500t" end="12051622917t" region="region_2" xml:id="subtitle317"><span style="style_1">Rage at injustice is universal.</span><br/><span style="style_1">The ability to strike back is not.</span></p>
+<p begin="12057462082t" end="12092497082t" region="region_2" xml:id="subtitle318"><span style="style_1">Cross-check for military training</span><br/><span style="style_1">or active combat experience.</span></p>
+<p begin="12115853750t" end="12148803334t" region="region_2" xml:id="subtitle319"><span style="style_1">[man 1]</span><span style="style_2"> I'm gonna double-sleeve you</span><br/><span style="style_2">so you can watch me murder you!</span></p>
+<p begin="12153808332t" end="12200104582t" region="region_2" xml:id="subtitle320"><span style="style_1">And at its heart, violence is</span><br/><span style="style_1">almost always, in one way or another...</span></p>
+<p begin="12213034167t" end="12221375834t" region="region_2" xml:id="subtitle321"><span style="style_2">personal.</span></p>
+<p begin="12227632082t" end="12246817916t" region="region_2" xml:id="subtitle322"><span style="style_1">[man 1]</span><span style="style_2"> Counting down to your real death.</span></p>
+<p begin="12247652084t" end="12259747500t" region="region_2" xml:id="subtitle323"><span style="style_1">[Kovacs] Isolate 43.</span></p>
+<p begin="12271008750t" end="12301038750t" region="region_2" xml:id="subtitle324"><span style="style_1">[distorted male voice]</span><br/><span style="style_2">For my girl. For my Lizzie.</span></p>
+<p begin="12311465832t" end="12324395416t" region="region_2" xml:id="subtitle325"><span style="style_2">You're a dead man, Bancroft. </span></p>
+<p begin="12337742082t" end="12360681666t" region="region_2" xml:id="subtitle326"><span style="style_2">I'm gonna hunt you down </span><br/><span style="style_2">on your steel mountaintop</span></p>
+<p begin="12361515834t" end="12379867500t" region="region_2" xml:id="subtitle327"><span style="style_2">and blow your head off.</span></p>
+<p begin="12387792082t" end="12434922500t" region="region_2" xml:id="subtitle328"><span style="style_2">Splatter your brains all over the wall, </span><br/><span style="style_2">and melt your stack to slag. </span></p>
+<p begin="12451188750t" end="12470374582t" region="region_2" xml:id="subtitle329"><span style="style_2">And you'll never see it comin'.</span></p>
+<p begin="12491645834t" end="12500404584t" region="region_2" xml:id="subtitle330"><span style="style_1">[Kovacs] Go back.</span></p>
+<p begin="12514168334t" end="12531268750t" region="region_2" xml:id="subtitle331"><span style="style_1">Stop. Expand.</span></p>
+<p begin="12746066666t" end="12783187082t" region="region_2" xml:id="subtitle332"><span style="style_1">[Hawkeye] </span><span style="style_2">Lieutenant Ortega, </span><br/><span style="style_2">target has left the Raven Hotel.</span></p>
+<p begin="13060130417t" end="13078899167t" region="region_2" xml:id="subtitle333"><span style="style_1">[kids chattering]</span></p>
+<p begin="13322892917t" end="13354174167t" region="region_2" xml:id="subtitle334"><span style="style_1">[Quell whispers] </span><span style="style_2">The machinery of justice</span><br/><span style="style_2">won't serve you here.</span></p>
+<p begin="13355008332t" end="13382952916t" region="region_2" xml:id="subtitle335"><span style="style_2">It is slow and cold and it is theirs.</span></p>
+<p begin="13392545834t" end="13414234167t" region="region_1" xml:id="subtitle336"><span style="style_2">Hardware and soft.</span></p>
+<p begin="13506409582t" end="13521841666t" region="region_2" xml:id="subtitle337"><span style="style_1">[machines whirring]</span></p>
+<p begin="13573559999t" end="13589826249t" region="region_2" xml:id="subtitle338"><span style="style_1">What the fuck?</span></p>
+<p begin="13615268334t" end="13632785834t" region="region_2" xml:id="subtitle339"><span style="style_1">What did you do to my goddamn door?</span></p>
+<p begin="13639042082t" end="13651971666t" region="region_2" xml:id="subtitle340"><span style="style_1">Well, you didn't answer.</span></p>
+<p begin="13652805832t" end="13671574582t" region="region_2" xml:id="subtitle341"><span style="style_1">Because I'm fucking closed!</span><br/><span style="style_1">Can't you read?</span></p>
+<p begin="13675328334t" end="13691594584t" region="region_2" xml:id="subtitle342"><span style="style_1">I got a few questions.</span></p>
+<p begin="13726212500t" end="13752488750t" region="region_2" xml:id="subtitle343"><span style="style_1">[distorted male voice]</span><br/><span style="style_2">For my girl. For my Lizzie.</span></p>
+<p begin="13790443334t" end="13817553750t" region="region_2" xml:id="subtitle344"><span style="style_1">See, Laurens Bancroft hired me</span><br/><span style="style_1">to investigate his death.</span></p>
+<p begin="13818387916t" end="13829649166t" region="region_2" xml:id="subtitle345"><span style="style_1">Now, who's Lizzie?</span></p>
+<p begin="13830483332t" end="13862598749t" region="region_2" xml:id="subtitle346"><span style="style_1">How the hell should I know?</span><br/><span style="style_1">That holo has nothing to do with me.</span></p>
+<p begin="13863432916t" end="13887623749t" region="region_2" xml:id="subtitle347"><span style="style_1">You see, the military, the cheap bastards,</span></p>
+<p begin="13888457916t" end="13914317082t" region="region_2" xml:id="subtitle348"><span style="style_1">they issue a weapon,</span><br/><span style="style_1">they keep records on who has it</span></p>
+<p begin="13915151249t" end="13933085832t" region="region_2" xml:id="subtitle349"><span style="style_1">so they can charge back against your pay.</span></p>
+<p begin="13939759166t" end="13958944999t" region="region_2" xml:id="subtitle350"><span style="style_1">Tac Marine standard issue AR.</span></p>
+<p begin="13959779166t" end="13986889582t" region="region_2" xml:id="subtitle351"><span style="style_1">Serial number, you dumb fuck.</span><br/><span style="style_1">You might as well have signed your name.</span></p>
+<p begin="13998567917t" end="14011080417t" region="region_2" xml:id="subtitle352"><span style="style_1">[gun cocks]</span></p>
+<p begin="14021924584t" end="14053205834t" region="region_2" xml:id="subtitle353"><span style="style_1">I heard Bancroft torched his own stack.</span></p>
+<p begin="14059045000t" end="14074477084t" region="region_2" xml:id="subtitle354"><span style="style_1">And I got drunk to celebrate.</span></p>
+<p begin="14085738334t" end="14096582500t" region="region_2" xml:id="subtitle355"><span style="style_1">He send you here to kill me?</span></p>
+<p begin="14108677916t" end="14136622499t" region="region_2" xml:id="subtitle356"><span style="style_1">So you were a Tac Marine. GCE?</span></p>
+<p begin="14137456666t" end="14161647499t" region="region_2" xml:id="subtitle357"><span style="style_1">Medic. And there is no "was."</span></p>
+<p begin="14162481666t" end="14188340832t" region="region_2" xml:id="subtitle358"><span style="style_1">Once a marine, always a marine.</span><br/><span style="style_1">Now get out, or I'll shoot.</span></p>
+<p begin="14189174999t" end="14203772916t" region="region_2" xml:id="subtitle359"><span style="style_1">You stitched people up, huh?</span></p>
+<p begin="14204607082t" end="14228797916t" region="region_2" xml:id="subtitle360"><span style="style_1">I shot them down, too.</span><br/><span style="style_1">Now get the fuck out.</span></p>
+<p begin="14245064166t" end="14254657082t" region="region_2" xml:id="subtitle361"><span style="style_1">What the...</span></p>
+<p begin="14282184582t" end="14305958332t" region="region_2" xml:id="subtitle362"><span style="style_1">[both grunting]</span></p>
+<p begin="14514917082t" end="14534937082t" region="region_2" xml:id="subtitle363"><span style="style_1">[grunting and panting]</span></p>
+<p begin="14565801250t" end="14589992084t" region="region_2" xml:id="subtitle364"><span style="style_1">You're awake. Good.</span></p>
+<p begin="14630866249t" end="14641710416t" region="region_2" xml:id="subtitle365"><span style="style_1">Put that down.</span></p>
+<p begin="14642544582t" end="14688840832t" region="region_2" xml:id="subtitle366"><span style="style_1">Single bed, single dish. Table cleared</span><br/><span style="style_1">just enough for one person...</span></p>
+<p begin="14714699999t" end="14727629582t" region="region_2" xml:id="subtitle367"><span style="style_1">What about the wife, Elliot?</span></p>
+<p begin="14740559167t" end="14750569167t" region="region_2" xml:id="subtitle368"><span style="style_1">She dead?</span></p>
+<p begin="14785604167t" end="14800202084t" region="region_2" xml:id="subtitle369"><span style="style_1">Okay, so not dead.</span></p>
+<p begin="14815217082t" end="14837739582t" region="region_2" xml:id="subtitle370"><span style="style_1">Maybe she left you</span><br/><span style="style_1">'cause you're a fucking slob.</span></p>
+<p begin="14838573749t" end="14849834999t" region="region_2" xml:id="subtitle371"><span style="style_1">I mean, look at this place.</span></p>
+<p begin="14850669166t" end="14868186666t" region="region_2" xml:id="subtitle372"><span style="style_1">Ava didn't leave me, you son of a bitch.</span></p>
+<p begin="14869020832t" end="14886955416t" region="region_2" xml:id="subtitle373"><span style="style_1">She pulled down 30 years for dipping.</span></p>
+<p begin="14887789582t" end="14898216666t" region="region_2" xml:id="subtitle374"><span style="style_1">She was a hacker?</span></p>
+<p begin="14899050832t" end="14930749166t" region="region_2" xml:id="subtitle375"><span style="style_1">Best in the Five Cities.</span><br/><span style="style_1">Until she got caught.</span></p>
+<p begin="14931583332t" end="14963281666t" region="region_2" xml:id="subtitle376"><span style="style_1">So Ava's your wife.</span><br/><span style="style_1">Which makes Lizzie your daughter.</span></p>
+<p begin="14996648332t" end="15030432082t" region="region_2" xml:id="subtitle377"><span style="style_1">-What're you staring at?</span><br/><span style="style_1">-Don't worry. You're not my type.</span></p>
+<p begin="15093411666t" end="15105089999t" region="region_2" xml:id="subtitle378"><span style="style_1">No, stay away from there.</span></p>
+<p begin="15105924167t" end="15123858750t" region="region_2" xml:id="subtitle379"><span style="style_1">No, don't go in there. Come on!</span></p>
+<p begin="15138873750t" end="15163064584t" region="region_2" xml:id="subtitle380"><span style="style_1">No, I'll fucking kill you! [grunting]</span></p>
+<p begin="15175577082t" end="15199767916t" region="region_2" xml:id="subtitle381"><span style="style_1">Don't! Stay away from there!</span></p>
+<p begin="15200602082t" end="15229797916t" region="region_2" xml:id="subtitle382"><span style="style_1">[Kovacs] </span><span style="style_2">Technology advances.</span><br/><span style="style_2">But humans don't.</span></p>
+<p begin="15236888332t" end="15256908332t" region="region_2" xml:id="subtitle383"><span style="style_1">No, I'll fucking kill you!</span></p>
+<p begin="15257742499t" end="15285687082t" region="region_2" xml:id="subtitle384"><span style="style_1">No, don't do it! You stay away from there!</span></p>
+<p begin="15286521249t" end="15303204582t" region="region_2" xml:id="subtitle385"><span style="style_1">[grunting]</span></p>
+<p begin="15307375417t" end="15345330000t" region="region_2" xml:id="subtitle386"><span style="style_1">[Kovacs] </span><span style="style_2">We're smart monkeys,</span><br/><span style="style_2">and what we want is always the same.</span></p>
+<p begin="15352003332t" end="15398299582t" region="region_2" xml:id="subtitle387"><span style="style_2">Food, shelter, sex,</span><br/><span style="style_2">and in all its forms...</span></p>
+<p begin="15399133749t" end="15421239166t" region="region_2" xml:id="subtitle388"><span style="style_1">-[Elliot] No, no, no!</span><br/><span style="style_2">-</span><span style="style_1">[Kovacs] </span><span style="style_2">...escape.</span></p>
+<p begin="15517585416t" end="15547198332t" region="region_2" xml:id="subtitle389"><span style="style_1">[woman over speakers]</span><br/><span style="style_2">Wake up and smell the coffee.</span></p>
+<p begin="15553037500t" end="15563047500t" region="region_2" xml:id="subtitle390"><span style="style_2">Wake up.</span></p>
+<p begin="15612680417t" end="15633534584t" region="region_2" xml:id="subtitle391"><span style="style_1">[woman whimpering]</span></p>
+<p begin="15694845834t" end="15704438750t" region="region_2" xml:id="subtitle392"><span style="style_1">[whimpers continue]</span></p>
+<p begin="15744895834t" end="15764498750t" region="region_2" xml:id="subtitle393"><span style="style_1">[gasping sobs]</span></p>
+<p begin="15955105834t" end="15971789167t" region="region_2" xml:id="subtitle394"><span style="style_1">[woman groaning]</span></p>
+<p begin="16068135416t" end="16080647916t" region="region_2" xml:id="subtitle395"><span style="style_1">You must be Lizzie.</span></p>
+<p begin="16098999582t" end="16111094999t" region="region_2" xml:id="subtitle396"><span style="style_1">My name is Tak.</span></p>
+<p begin="16160727917t" end="16182416250t" region="region_2" xml:id="subtitle397"><span style="style_1">-What happened to you?</span><br/><span style="style_1">-[breathing heavily]</span></p>
+<p begin="16217451249t" end="16227461249t" region="region_2" xml:id="subtitle398"><span style="style_1">[screams]</span></p>
+<p begin="16322556249t" end="16335902916t" region="region_2" xml:id="subtitle399"><span style="style_1">Did you hurt her?</span></p>
+<p begin="16336737082t" end="16355922916t" region="region_2" xml:id="subtitle400"><span style="style_1">If you laid a hand on my daughter...</span></p>
+<p begin="16363013332t" end="16382199166t" region="region_2" xml:id="subtitle401"><span style="style_1">What the hell is wrong with you?</span></p>
+<p begin="16390123749t" end="16422239166t" region="region_2" xml:id="subtitle402"><span style="style_1">Can't you tell she's suffering?</span><br/><span style="style_1">She's caught in a trauma loop.</span></p>
+<p begin="16423073332t" end="16453520416t" region="region_2" xml:id="subtitle403"><span style="style_1">-Why the fuck you have her spun up in VR?</span><br/><span style="style_1">-It's the only way I can see her.</span></p>
+<p begin="16479796666t" end="16509826666t" region="region_2" xml:id="subtitle404"><span style="style_1">Her body was beaten to death,</span><br/><span style="style_1">but her stack was untouched.</span></p>
+<p begin="16519002500t" end="16536520000t" region="region_2" xml:id="subtitle405"><span style="style_1">It damaged her mind.</span></p>
+<p begin="16542776249t" end="16560293749t" region="region_2" xml:id="subtitle406"><span style="style_1">She hasn't said a word since that night.</span></p>
+<p begin="16574057499t" end="16586987082t" region="region_2" xml:id="subtitle407"><span style="style_1">Why do you think Bancroft did it?</span></p>
+<p begin="16587821249t" end="16606589999t" region="region_2" xml:id="subtitle408"><span style="style_1">'Cause she told me she was seeing him!</span></p>
+<p begin="16616599999t" end="16633700416t" region="region_2" xml:id="subtitle409"><span style="style_1">She said he needed her.</span></p>
+<p begin="16645378749t" end="16658725416t" region="region_2" xml:id="subtitle410"><span style="style_1">That he was gonna take care of her.</span></p>
+<p begin="16677494166t" end="16688755416t" region="region_2" xml:id="subtitle411"><span style="style_1">[grunts]</span></p>
+<p begin="16692926250t" end="16706690000t" region="region_2" xml:id="subtitle412"><span style="style_1">And then she ended up dead.</span></p>
+<p begin="16712946250t" end="16722539167t" region="region_2" xml:id="subtitle413"><span style="style_1">[grunts]</span></p>
+<p begin="16742976249t" end="16757991249t" region="region_2" xml:id="subtitle414"><span style="style_1">I don't want to hurt you.</span></p>
+<p begin="17093743334t" end="17114180417t" region="region_2" xml:id="subtitle415"><span style="style_1">You gotta get out more, Elliot.</span></p>
+<p begin="17132949166t" end="17165481666t" region="region_2" xml:id="subtitle416"><span style="style_1">Your milk's a month past the due date.</span><br/><span style="style_1">A month.</span></p>
+<p begin="17207190000t" end="17236802917t" region="region_2" xml:id="subtitle417"><span style="style_1">You got a hell of a motive.</span><br/><span style="style_1">Military expertise.</span></p>
+<p begin="17237637082t" end="17266415832t" region="region_2" xml:id="subtitle418"><span style="style_1">So do you, from the looks of it.</span><br/><span style="style_1">That make you a killer?</span></p>
+<p begin="17283933332t" end="17297697082t" region="region_2" xml:id="subtitle419"><span style="style_1">More times than I can count.</span></p>
+<p begin="17312712082t" end="17330229582t" region="region_2" xml:id="subtitle420"><span style="style_1">But you didn't kill Bancroft.</span></p>
+<p begin="17331063750t" end="17368184166t" region="region_2" xml:id="subtitle421"><span style="style_1">I told you I...</span><br/><span style="style_1">I could have. You don't know.</span></p>
+<p begin="17369018332t" end="17383616250t" region="region_2" xml:id="subtitle422"><span style="style_1">You got the background, skill...</span></p>
+<p begin="17384450416t" end="17395294582t" region="region_2" xml:id="subtitle423"><span style="style_1">Exactly.</span></p>
+<p begin="17415314582t" end="17453686250t" region="region_2" xml:id="subtitle424"><span style="style_1">But your daughter? You'd do anything</span><br/><span style="style_1">to protect her. You're not stupid.</span></p>
+<p begin="17458274167t" end="17485384584t" region="region_2" xml:id="subtitle425"><span style="style_1">You take out Bancroft, sooner or later,</span><br/><span style="style_1">someone like me will show up.</span></p>
+<p begin="17486218750t" end="17510409584t" region="region_2" xml:id="subtitle426"><span style="style_1">You go down for it,</span><br/><span style="style_1">she's alone in the world.</span></p>
+<p begin="17552952084t" end="17564630417t" region="region_2" xml:id="subtitle427"><span style="style_1">What's Jack?</span></p>
+<p begin="17578394167t" end="17605087500t" region="region_2" xml:id="subtitle428"><span style="style_1">-I'm not telling you fuck all.</span><br/><span style="style_1">-Okay.</span></p>
+<p begin="17649298332t" end="17659308332t" region="region_2" xml:id="subtitle429"><span style="style_1">You're just gonna leave?</span></p>
+<p begin="17758574167t" end="17789855417t" region="region_2" xml:id="subtitle430"><span style="style_1">That's, um, for the cereal.</span></p>
+<p begin="17794443334t" end="17804870417t" region="region_2" xml:id="subtitle431"><span style="style_1">And the door.</span></p>
+<p begin="17816965832t" end="17830312500t" region="region_2" xml:id="subtitle432"><span style="style_1">Sorry about the door.</span></p>
+<p begin="18000065416t" end="18026341666t" region="region_2" xml:id="subtitle433"><span style="style_1">[woman]</span><br/><span style="style_2">Welcome to the Battle of Stronghold.</span></p>
+<p begin="18043025000t" end="18076808750t" region="region_2" xml:id="subtitle434"><span style="style_2">Experience the brutality</span><br/><span style="style_2">of Envoy terrorists</span></p>
+<p begin="18077642917t" end="18102667917t" region="region_2" xml:id="subtitle435"><span style="style_2">murdering countless women and children.</span></p>
+<p begin="18112677916t" end="18146878750t" region="region_2" xml:id="subtitle436"><span style="style_2">Witness the Protectorate courage</span><br/><span style="style_2">and triumph.</span></p>
+<p begin="18217782917t" end="18234466250t" region="region_2" xml:id="subtitle437"><span style="style_1">[Kovacs] </span><span style="style_2">I knew I shouldn't go...</span></p>
+<p begin="18245727500t" end="18295360416t" region="region_2" xml:id="subtitle438"><span style="style_2">'cause when the victors rewrite history,</span><br/><span style="style_2">it's just another kind of war,</span></p>
+<p begin="18296194582t" end="18323305000t" region="region_2" xml:id="subtitle439"><span style="style_2">waged after the battlefield killing</span><br/><span style="style_2">is done...</span></p>
+<p begin="18332480834t" end="18361676667t" region="region_2" xml:id="subtitle440"><span style="style_2">to murder the memory of the defeated.</span></p>
+<p begin="18382947917t" end="18403802084t" region="region_2" xml:id="subtitle441"><span style="style_2">But it was a chance to see her again.</span></p>
+<p begin="18421319584t" end="18445510417t" region="region_2" xml:id="subtitle442"><span style="style_2">Not as a dream or a hallucination.</span></p>
+<p begin="18471369584t" end="18494309167t" region="region_2" xml:id="subtitle443"><span style="style_2">I thought it would give me</span><br/><span style="style_2">a moment of peace.</span></p>
+<p begin="18529344167t" end="18542690834t" region="region_2" xml:id="subtitle444"><span style="style_2">I should have known better.</span></p>
+<p begin="18741222500t" end="18751232500t" region="region_2" xml:id="subtitle445"><span style="style_1">Hey.</span></p>
+<p begin="18762910832t" end="18782930832t" region="region_2" xml:id="subtitle446"><span style="style_1">You're not supposed to have that.</span></p>
+<p begin="18792940834t" end="18823805000t" region="region_2" xml:id="subtitle447"><span style="style_1">We're learning about Songspires in school.</span><br/><span style="style_1">They're rare.</span></p>
+<p begin="18831312500t" end="18842990834t" region="region_2" xml:id="subtitle448"><span style="style_1">Where'd you get it?</span></p>
+<p begin="18846327500t" end="18860925417t" region="region_2" xml:id="subtitle449"><span style="style_1">I stole it.</span></p>
+<p begin="18866764582t" end="18876774582t" region="region_2" xml:id="subtitle450"><span style="style_1">Oh.</span></p>
+<p begin="18883030832t" end="18902633750t" region="region_2" xml:id="subtitle451"><span style="style_1">You're not supposed to</span><br/><span style="style_1">steal things either.</span></p>
+<p begin="18903467916t" end="18938085832t" region="region_2" xml:id="subtitle452"><span style="style_1">Well, someone... stole these stacks.</span></p>
+<p begin="18951015416t" end="18965613332t" region="region_2" xml:id="subtitle453"><span style="style_1">They used to be people.</span></p>
+<p begin="18966447500t" end="18989804166t" region="region_2" xml:id="subtitle454"><span style="style_1">They were Envoy terrorists</span><br/><span style="style_1">that wanted to kill--</span></p>
+<p begin="18990638332t" end="19007738750t" region="region_2" xml:id="subtitle455"><span style="style_1">Maybe you should catch up with your group.</span></p>
+<p begin="19008572916t" end="19035266250t" region="region_2" xml:id="subtitle456"><span style="style_1">I don't wanna. Emmeline is there.</span></p>
+<p begin="19043607916t" end="19069884166t" region="region_2" xml:id="subtitle457"><span style="style_1">She's the new girl in our class,</span><br/><span style="style_1">and she's a bitch.</span></p>
+<p begin="19070718332t" end="19088235832t" region="region_2" xml:id="subtitle458"><span style="style_1">She stole my best friend Monica.</span></p>
+<p begin="19099080000t" end="19122019584t" region="region_2" xml:id="subtitle459"><span style="style_1">Me and Monica have been</span><br/><span style="style_1">best friends forever.</span></p>
+<p begin="19122853750t" end="19144542084t" region="region_2" xml:id="subtitle460"><span style="style_1">-Hmm.</span><br/><span style="style_1">-Since we were little kids.</span></p>
+<p begin="19151215416t" end="19180828332t" region="region_2" xml:id="subtitle461"><span style="style_1">But then, Emmeline came along</span><br/><span style="style_1">and stole her from me.</span></p>
+<p begin="19181662500t" end="19198345832t" region="region_2" xml:id="subtitle462"><span style="style_1">I'm devastated.</span></p>
+<p begin="19199180000t" end="19220451250t" region="region_2" xml:id="subtitle463"><span style="style_1">Mom said grudges are stupid.</span></p>
+<p begin="19221285416t" end="19251732500t" region="region_2" xml:id="subtitle464"><span style="style_1">She said you had to let them go</span><br/><span style="style_1">or else it would kill your soul.</span></p>
+<p begin="19279677082t" end="19288852916t" region="region_2" xml:id="subtitle465"><span style="style_1">What do you think?</span></p>
+<p begin="19289687084t" end="19327641667t" region="region_2" xml:id="subtitle466"><span style="style_1">I think your mom doesn't know</span><br/><span style="style_1">what the fuck she's talking about.</span></p>
+<p begin="19329727084t" end="19346410417t" region="region_2" xml:id="subtitle467"><span style="style_1">-What?</span><br/><span style="style_1">-See, friends are overrated,</span></p>
+<p begin="19347244584t" end="19388952917t" region="region_2" xml:id="subtitle468"><span style="style_1">'cause eventually, someone will come along</span><br/><span style="style_1">and shoot 'em in the stack.</span></p>
+<p begin="19398962916t" end="19412309582t" region="region_2" xml:id="subtitle469"><span style="style_1">You're better off alone.</span></p>
+<p begin="19522419584t" end="19538685834t" region="region_2" xml:id="subtitle470"><span style="style_1">[automated voice] </span><span style="style_2">Welcome home.</span></p>
+<p begin="19581228334t" end="19594157917t" region="region_2" xml:id="subtitle471"><span style="style_1">[Ortega in Spanish] Hi, Mama.</span></p>
+<p begin="19610424166t" end="19627107500t" region="region_2" xml:id="subtitle472"><span style="style_1">Just let yourself in anytime you want.</span></p>
+<p begin="19627941666t" end="19649630000t" region="region_2" xml:id="subtitle473"><span style="style_1">You don't have any food in here.</span></p>
+<p begin="19659222916t" end="19684247916t" region="region_2" xml:id="subtitle474"><span style="style_1">No one will respect a skinny girl cop.</span></p>
+<p begin="19685082082t" end="19708021666t" region="region_2" xml:id="subtitle475"><span style="style_1">I'm not going to let you</span><br/><span style="style_1">get yourself killed</span></p>
+<p begin="19708855832t" end="19731795416t" region="region_2" xml:id="subtitle476"><span style="style_1">because you wouldn't eat an enchilada.</span></p>
+<p begin="19750981250t" end="19780177082t" region="region_2" xml:id="subtitle477"><span style="style_1">Look at this mess.</span><br/><span style="style_1">When are you going to unpack?</span></p>
+<p begin="19787267500t" end="19804785000t" region="region_2" xml:id="subtitle478"><span style="style_1">I'm busy, that's all.</span></p>
+<p begin="19813126667t" end="19840654167t" region="region_2" xml:id="subtitle479"><span style="style_1">Too busy to put away your underwear?</span></p>
+<p begin="19854835000t" end="19865262082t" region="region_2" xml:id="subtitle480"><span style="style_1">I like it like this.</span></p>
+<p begin="19876523332t" end="19901965416t" region="region_2" xml:id="subtitle481"><span style="style_1">You're waiting for someone to come</span><br/><span style="style_1">and help you unpack,</span></p>
+<p begin="19902799582t" end="19921151250t" region="region_2" xml:id="subtitle482"><span style="style_1">and it's not your mother.</span></p>
+<p begin="19952432500t" end="19996226250t" region="region_2" xml:id="subtitle483"><span style="style_1">You know, you could always move</span><br/><span style="style_1">to someplace that's really yours.</span></p>
+<p begin="19997060416t" end="20021668332t" region="region_2" xml:id="subtitle484"><span style="style_1">Ana Luisa from the cleaners,</span></p>
+<p begin="20022502500t" end="20060874167t" region="region_2" xml:id="subtitle485"><span style="style_1">she told me there's a whole block</span><br/><span style="style_1">of new places near the Tenderloin.</span></p>
+<p begin="20061708332t" end="20082562500t" region="region_2" xml:id="subtitle486"><span style="style_1">No, no, Mama. This is my place.</span></p>
+<p begin="20083396666t" end="20095075000t" region="region_2" xml:id="subtitle487"><span style="style_1">I'm staying.</span></p>
+<p begin="20105085000t" end="20116346250t" region="region_2" xml:id="subtitle488"><span style="style_1">Yes, of course.</span></p>
+<p begin="20123019582t" end="20136366250t" region="region_2" xml:id="subtitle489"><span style="style_1">What do I know?</span></p>
+<p begin="20143873750t" end="20180160000t" region="region_2" xml:id="subtitle490"><span style="style_1">I'm just an old-fashioned woman.</span><br/><span style="style_1">Out of touch.</span></p>
+<p begin="20187250417t" end="20216029167t" region="region_2" xml:id="subtitle491"><span style="style_1">I've only got this life, and I'm not</span><br/><span style="style_1">planning to have another one.</span></p>
+<p begin="20216863334t" end="20238968750t" region="region_2" xml:id="subtitle492"><span style="style_1">Not this again.</span></p>
+<p begin="20243139582t" end="20270667082t" region="region_2" xml:id="subtitle493"><span style="style_1">How am I supposed to explain this</span><br/><span style="style_1">to your brothers and sisters?</span></p>
+<p begin="20271501250t" end="20289018750t" region="region_2" xml:id="subtitle494"><span style="style_1">Everyone at church?</span></p>
+<p begin="20289852916t" end="20309455832t" region="region_2" xml:id="subtitle495"><span style="style_1">To your father, God rest his soul?</span></p>
+<p begin="20310290000t" end="20331144166t" region="region_2" xml:id="subtitle496"><span style="style_1">That you've renounced</span><br/><span style="style_1">your religious coding.</span></p>
+<p begin="20331978334t" end="20358671667t" region="region_2" xml:id="subtitle497"><span style="style_1">Like you said, Papa's dead.</span><br/><span style="style_1">That should limit the explaining.</span></p>
+<p begin="20378691666t" end="20395792082t" region="region_2" xml:id="subtitle498"><span style="style_1">Sit down. We're going to eat.</span></p>
+<p begin="20423319582t" end="20473369582t" region="region_2" xml:id="subtitle499"><span style="style_1">Without your coding, you can be</span><br/><span style="style_1">spun back up after your body dies.</span></p>
+<p begin="20484213750t" end="20501314166t" region="region_2" xml:id="subtitle500"><span style="style_1">It's wrong.</span></p>
+<p begin="20517163332t" end="20535515000t" region="region_2" xml:id="subtitle501"><span style="style_1">You can't take your communion.</span></p>
+<p begin="20539685834t" end="20563042500t" region="region_2" xml:id="subtitle502"><span style="style_1">Father Huerta can't hear your confession.</span></p>
+<p begin="20580977084t" end="20600580000t" region="region_2" xml:id="subtitle503"><span style="style_1">When Papa died,</span></p>
+<p begin="20607253334t" end="20665227917t" region="region_2" xml:id="subtitle504"><span style="style_1">and we couldn't ask him what happened</span><br/><span style="style_1">or how it happened--</span></p>
+<p begin="20666062084t" end="20684413750t" region="region_2" xml:id="subtitle505"><span style="style_1">Your father was a devout man.</span></p>
+<p begin="20691087082t" end="20726539166t" region="region_2" xml:id="subtitle506"><span style="style_1">He would have never wanted</span><br/><span style="style_1">to be spun back up.</span></p>
+<p begin="20727373332t" end="20737383332t" region="region_2" xml:id="subtitle507"><span style="style_1">I know.</span></p>
+<p begin="20752398332t" end="20765745000t" region="region_2" xml:id="subtitle508"><span style="style_1">But if it were me?</span></p>
+<p begin="20782011250t" end="20803282500t" region="region_2" xml:id="subtitle509"><span style="style_1">-If it was me, what would you do?</span><br/><span style="style_1">-[Alazne sighs]</span></p>
+<p begin="20810372917t" end="20823719584t" region="region_2" xml:id="subtitle510"><span style="style_1">What would you do, Mama?</span></p>
+<p begin="20847076250t" end="20883779582t" region="region_2" xml:id="subtitle511"><span style="style_1">Okay. I'll tell you, Kristin.</span></p>
+<p begin="20891704166t" end="20914226666t" region="region_2" xml:id="subtitle512"><span style="style_1">My heart would break</span><br/><span style="style_1">into a thousand pieces.</span></p>
+<p begin="20915060832t" end="20936332082t" region="region_2" xml:id="subtitle513"><span style="style_1">It would shatter my world.</span></p>
+<p begin="20950930000t" end="20988050417t" region="region_2" xml:id="subtitle514"><span style="style_1">I would cry enough</span><br/><span style="style_1">to fill up the oceans of the world.</span></p>
+<p begin="20996392082t" end="21009321666t" region="region_2" xml:id="subtitle515"><span style="style_1">And I still...</span></p>
+<p begin="21018914584t" end="21044356667t" region="region_2" xml:id="subtitle516"><span style="style_1">don't want you to risk your soul.</span></p>
+<p begin="21054366666t" end="21082728332t" region="region_2" xml:id="subtitle517"><span style="style_1">Now that the 653 stupidity is over,</span></p>
+<p begin="21089818750t" end="21121100000t" region="region_2" xml:id="subtitle518"><span style="style_1">there won't be any more talk</span><br/><span style="style_1">of spinning up the dead.</span></p>
+<p begin="21121934167t" end="21130692917t" region="region_2" xml:id="subtitle519"><span style="style_1">[Hawkeye beeps]</span></p>
+<p begin="21139451666t" end="21149461666t" region="region_2" xml:id="subtitle520"><span style="style_1">[in English] Fuck!</span></p>
+<p begin="21150295832t" end="21164059582t" region="region_2" xml:id="subtitle521"><span style="style_1">[in Spanish] Don't say swear words.</span></p>
+<p begin="21164893750t" end="21175320832t" region="region_2" xml:id="subtitle522"><span style="style_1">I'm sorry.</span></p>
+<p begin="21176155000t" end="21203265416t" region="region_2" xml:id="subtitle523"><span style="style_1">[Hawkeye in English] </span><span style="style_2">Lieutenant Ortega,</span><br/><span style="style_2">target has entered Licktown.</span></p>
+<p begin="21204099584t" end="21216195000t" region="region_2" xml:id="subtitle524"><span style="style_1">[sighs] Shit.</span></p>
+<p begin="21220365834t" end="21244556667t" region="region_2" xml:id="subtitle525"><span style="style_1">-[in Spanish] What is that, Kristin?</span><br/><span style="style_1">-[in English] I gotta go.</span></p>
+<p begin="21251230000t" end="21268330417t" region="region_2" xml:id="subtitle526"><span style="style_1">I gotta go. Thank you.</span></p>
+<p begin="21269164584t" end="21289601667t" region="region_2" xml:id="subtitle527"><span style="style_1">[in Spanish] Are you supposed</span><br/><span style="style_1">to have that at home?</span></p>
+<p begin="21290435834t" end="21314209584t" region="region_2" xml:id="subtitle528"><span style="style_1">[in English] Thanks for dinner!</span><br/><span style="style_1">I love you.</span></p>
+<p begin="21405967917t" end="21436415000t" region="region_2" xml:id="subtitle529"><span style="style_1">[woman over speakers]</span><br/><span style="style_2">Wake up and smell the coffee.</span></p>
+<p begin="21444339584t" end="21472701250t" region="region_2" xml:id="subtitle530"><span style="style_2">Wake up and smell the coffee.</span></p>
+<p begin="21479374582t" end="21504399582t" region="region_2" xml:id="subtitle531"><span style="style_2">-Wake up and smell the coffee.</span><br/><span style="style_1">-[women moaning]</span></p>
+<p begin="21505233750t" end="21525253750t" region="region_2" xml:id="subtitle532"><span style="style_1">[people chattering]</span></p>
+<p begin="21734212500t" end="21747142082t" region="region_2" xml:id="subtitle533"><span style="style_1">[rats squeaking]</span></p>
+<p begin="21782594166t" end="21813875416t" region="region_2" xml:id="subtitle534"><span style="style_1">[automated voice]</span><span style="style_2"> Welcome to Jack It Off.</span></p>
+<p begin="21832227084t" end="21865593750t" region="region_2" xml:id="subtitle535"><span style="style_1">-[club music playing]</span><br/><span style="style_1">-[man speaking indistinctly over speakers]</span></p>
+<p begin="21892287082t" end="21907719166t" region="region_2" xml:id="subtitle536"><span style="style_1">[faint moaning]</span></p>
+<p begin="21953181250t" end="21963191250t" region="region_2" xml:id="subtitle537"><span style="style_1">Leave the piece with me.</span></p>
+<p begin="21970698750t" end="21983211250t" region="region_2" xml:id="subtitle538"><span style="style_1">Cabin 102.</span></p>
+<p begin="21992387084t" end="22024502500t" region="region_2" xml:id="subtitle539"><span style="style_1">Take a towel from the pile,</span><br/><span style="style_1">and don't fucking steal it.</span></p>
+<p begin="22074552500t" end="22097909167t" region="region_2" xml:id="subtitle540"><span style="style_1">[women moaning, echoing]</span></p>
+<p begin="22230958750t" end="22264742500t" region="region_2" xml:id="subtitle541"><span style="style_1">[woman] Do you want to see me?</span><br/><span style="style_1">I'm right here, baby.</span></p>
+<p begin="22279340416t" end="22296440832t" region="region_2" xml:id="subtitle542"><span style="style_1">Just a few credits.</span></p>
+<p begin="22431158750t" end="22467862082t" region="region_2" xml:id="subtitle543"><span style="style_1">Now, do you want to touch me?</span></p>
+<p begin="22541268750t" end="22557952084t" region="region_2" xml:id="subtitle544"><span style="style_1">Tell me what you want, honey.</span></p>
+<p begin="22565876667t" end="22581725834t" region="region_2" xml:id="subtitle545"><span style="style_1">-What's your name?</span><br/><span style="style_1">-[chuckles]</span></p>
+<p begin="22590067500t" end="22604248332t" region="region_2" xml:id="subtitle546"><span style="style_1">Anemone.</span></p>
+<p begin="22612590000t" end="22631775832t" region="region_2" xml:id="subtitle547"><span style="style_1">Do you wanna fuck me?</span></p>
+<p begin="22632610000t" end="22653047082t" region="region_2" xml:id="subtitle548"><span style="style_1">Put your cock in me?</span></p>
+<p begin="22668896250t" end="22680157500t" region="region_2" xml:id="subtitle549"><span style="style_1">Anywhere you want.</span></p>
+<p begin="22680991666t" end="22715609582t" region="region_2" xml:id="subtitle550"><span style="style_1">Do you remember a girl...</span><br/><span style="style_1">I think she used to work here.</span></p>
+<p begin="22716443750t" end="22769830416t" region="region_2" xml:id="subtitle551"><span style="style_1">No girl who used to work here</span><br/><span style="style_1">is gonna do what I can do for you.</span></p>
+<p begin="22770664582t" end="22781508750t" region="region_2" xml:id="subtitle552"><span style="style_1">Her name was Lizzie.</span></p>
+<p begin="22798192084t" end="22809453334t" region="region_2" xml:id="subtitle553"><span style="style_1">Lizzie Elliot.</span></p>
+<p begin="22838649166t" end="22867845000t" region="region_2" xml:id="subtitle554"><span style="style_1">-The fuck is this? You the sia?</span><br/><span style="style_1">-No.</span></p>
+<p begin="22868679167t" end="22895372500t" region="region_2" xml:id="subtitle555"><span style="style_1">Get out, before I call for help.</span></p>
+<p begin="22917060832t" end="22952095832t" region="region_2" xml:id="subtitle556"><span style="style_1">I'm Ava. Ava Elliot. Her mother.</span></p>
+<p begin="22952930000t" end="23002562916t" region="region_2" xml:id="subtitle557"><span style="style_1">[scoffs] Bullshit.</span><br/><span style="style_1">Lizzie's mom is in the store.</span></p>
+<p begin="23003397082t" end="23029256250t" region="region_2" xml:id="subtitle558"><span style="style_1">You're just another fucking John,</span><br/><span style="style_1">and I am going to scream.</span></p>
+<p begin="23030090416t" end="23043020000t" region="region_2" xml:id="subtitle559"><span style="style_1">Wait, wait, wait!</span></p>
+<p begin="23060954584t" end="23085562500t" region="region_2" xml:id="subtitle560"><span style="style_1">I'm cross-sleeved, but I'm her mother.</span></p>
+<p begin="23093487082t" end="23105582500t" region="region_2" xml:id="subtitle561"><span style="style_1">You're fucking lying.</span></p>
+<p begin="23106416666t" end="23145205416t" region="region_2" xml:id="subtitle562"><span style="style_1">I'm not lying.</span><br/><span style="style_1">Someone gave me a job, and...</span></p>
+<p begin="23152295832t" end="23181074582t" region="region_2" xml:id="subtitle563"><span style="style_1">took me off ice,</span><br/><span style="style_1">and then put me in this sleeve.</span></p>
+<p begin="23188999166t" end="23199426250t" region="region_2" xml:id="subtitle564"><span style="style_1">It's wetwork.</span></p>
+<p begin="23206099582t" end="23252395832t" region="region_2" xml:id="subtitle565"><span style="style_1">If I do it, I'll get a new sleeve</span><br/><span style="style_1">for me and for Lizzie.</span></p>
+<p begin="23272415834t" end="23280757500t" region="region_2" xml:id="subtitle566"><span style="style_1">You...</span></p>
+<p begin="23287847916t" end="23297440832t" region="region_2" xml:id="subtitle567"><span style="style_1">You'd do that?</span></p>
+<p begin="23298275000t" end="23323717082t" region="region_2" xml:id="subtitle568"><span style="style_1">I'd do anything for my little girl.</span></p>
+<p begin="23329973332t" end="23351244582t" region="region_2" xml:id="subtitle569"><span style="style_1">My mom would never...</span></p>
+<p begin="23359586250t" end="23406299582t" region="region_2" xml:id="subtitle570"><span style="style_1">But someone's blocking</span><br/><span style="style_1">Lizzie's resleeve, and I...</span></p>
+<p begin="23407133750t" end="23420063334t" region="region_2" xml:id="subtitle571"><span style="style_1">I don't know why.</span></p>
+<p begin="23424651250t" end="23445505416t" region="region_2" xml:id="subtitle572"><span style="style_1">That's why I have to find out</span><br/><span style="style_1">who killed her.</span></p>
+<p begin="23453012916t" end="23490550416t" region="region_2" xml:id="subtitle573"><span style="style_1">Do you know if Lizzie had any regulars?</span></p>
+<p begin="23497640832t" end="23518495000t" region="region_2" xml:id="subtitle574"><span style="style_1">Someone important? Any freaks?</span></p>
+<p begin="23537263750t" end="23573550000t" region="region_2" xml:id="subtitle575"><span style="style_1">Mrs. Elliot... everyone here is a freak.</span></p>
+<p begin="23602745834t" end="23617343750t" region="region_2" xml:id="subtitle576"><span style="style_1">Lizzie did have one regular.</span></p>
+<p begin="23618177917t" end="23633610000t" region="region_2" xml:id="subtitle577"><span style="style_1">-Do you know his name?</span><br/><span style="style_1">-No.</span></p>
+<p begin="23634444166t" end="23674067082t" region="region_2" xml:id="subtitle578"><span style="style_1">I don't know. But he's a rich guy, a Meth.</span></p>
+<p begin="23674901250t" end="23692418750t" region="region_2" xml:id="subtitle579"><span style="style_1">-Lizzie was his favorite.</span><br/><span style="style_1">-Did he hurt her?</span></p>
+<p begin="23693252917t" end="23719112084t" region="region_2" xml:id="subtitle580"><span style="style_1">No, no, he's not like that.</span></p>
+<p begin="23724951250t" end="23741634582t" region="region_2" xml:id="subtitle581"><span style="style_1">He takes care of his girls.</span></p>
+<p begin="23742468750t" end="23754147082t" region="region_2" xml:id="subtitle582"><span style="style_1">Takes care of them how?</span></p>
+<p begin="23759152084t" end="23768327917t" region="region_2" xml:id="subtitle583"><span style="style_1">Um...</span></p>
+<p begin="23778755000t" end="23788347916t" region="region_2" xml:id="subtitle584"><span style="style_1">What does he do?</span></p>
+<p begin="23987296667t" end="23997723750t" region="region_2" xml:id="subtitle585"><span style="style_1">Did he do that to you?</span></p>
+<p begin="23998557916t" end="24031090416t" region="region_2" xml:id="subtitle586"><span style="style_1">No. No, it's okay.</span></p>
+<p begin="24041517500t" end="24055281250t" region="region_2" xml:id="subtitle587"><span style="style_1">He's one of the good ones.</span></p>
+<p begin="24056115416t" end="24081557500t" region="region_2" xml:id="subtitle588"><span style="style_1">-If he breaks it, he buys it.</span><br/><span style="style_1">-What?</span></p>
+<p begin="24082391666t" end="24119095000t" region="region_2" xml:id="subtitle589"><span style="style_1">You know, if he accidentally kills a girl,</span><br/><span style="style_1">he buys her an upgraded sleeve.</span></p>
+<p begin="24124934166t" end="24152461666t" region="region_2" xml:id="subtitle590"><span style="style_1">I knew a girl once,</span><br/><span style="style_1">he resleeved her ten years younger,</span></p>
+<p begin="24153295832t" end="24175401250t" region="region_2" xml:id="subtitle591"><span style="style_1">and with a great set of tits, too.</span></p>
+<p begin="24181240417t" end="24200426250t" region="region_2" xml:id="subtitle592"><span style="style_1">Did Lizzie have a jealous boyfriend</span></p>
+<p begin="24201260417t" end="24230456250t" region="region_2" xml:id="subtitle593"><span style="style_1">that didn't like her spending time</span><br/><span style="style_1">with this regular?</span></p>
+<p begin="24236295417t" end="24273415834t" region="region_2" xml:id="subtitle594"><span style="style_1">Look, I liked Lizzie,</span><br/><span style="style_1">but we weren't that close.</span></p>
+<p begin="24327636666t" end="24338480832t" region="region_2" xml:id="subtitle595"><span style="style_1">I'll ask around.</span></p>
+<p begin="24350993332t" end="24365591250t" region="region_2" xml:id="subtitle596"><span style="style_1">Come here tomorrow.</span></p>
+<p begin="24394370000t" end="24416058334t" region="region_2" xml:id="subtitle597"><span style="style_1">Doesn't matter how much anyone pays you.</span></p>
+<p begin="24438997917t" end="24476118334t" region="region_2" xml:id="subtitle598"><span style="style_1">You shouldn't let anyone hurt you.</span><br/><span style="style_1">You're worth more than that.</span></p>
+<p begin="24523248750t" end="24560369167t" region="region_2" xml:id="subtitle599"><span style="style_1">My name's not Anemone, Mrs. Elliot.</span><br/><span style="style_1">[sniffles]</span></p>
+<p begin="24568710832t" end="24582474582t" region="region_2" xml:id="subtitle600"><span style="style_1">It's Alice.</span></p>
+<p begin="24684242916t" end="24709267916t" region="region_2" xml:id="subtitle601"><span style="style_1">[automated voice]</span><br/><span style="style_2">Thank you for visiting Jack It Off.</span></p>
+<p begin="24710102084t" end="24729287917t" region="region_2" xml:id="subtitle602"><span style="style_2">Hope you come again.</span></p>
+<p begin="24730122084t" end="24760986250t" region="region_2" xml:id="subtitle603"><span style="style_1">[Quell whispers] </span><span style="style_2">First thing you'll learn</span><br/><span style="style_2">is that nothing is what it seems.</span></p>
+<p begin="24765991250t" end="24784342916t" region="region_2" xml:id="subtitle604"><span style="style_2">Ignore your assumptions.</span></p>
+<p begin="24791016250t" end="24807282500t" region="region_2" xml:id="subtitle605"><span style="style_2">Don't trust anything.</span></p>
+<p begin="24879855000t" end="24888196667t" region="region_2" xml:id="subtitle606"><span style="style_1">Weapon.</span></p>
+<p begin="24893618750t" end="24922397500t" region="region_2" xml:id="subtitle607"><span style="style_1">-Ah-ah-ah. Just the charge cell.</span><br/><span style="style_1">-Okay.</span></p>
+<p begin="24975367082t" end="24992884582t" region="region_2" xml:id="subtitle608"><span style="style_1">You shouldn't have gone after my daughter.</span></p>
+<p begin="24998723750t" end="25019577916t" region="region_2" xml:id="subtitle609"><span style="style_1">I was just trying to find out</span><br/><span style="style_1">what happened to her.</span></p>
+<p begin="25020412082t" end="25036261250t" region="region_2" xml:id="subtitle610"><span style="style_1">You left a few things out.</span></p>
+<p begin="25057532500t" end="25071296250t" region="region_2" xml:id="subtitle611"><span style="style_1">You don't care about her.</span></p>
+<p begin="25072130416t" end="25083391666t" region="region_2" xml:id="subtitle612"><span style="style_1">I never said I did.</span></p>
+<p begin="25130522084t" end="25139697917t" region="region_2" xml:id="subtitle613"><span style="style_1">Heads up.</span></p>
+<p begin="25168059582t" end="25186411250t" region="region_2" xml:id="subtitle614"><span style="style_1">You can't possibly think I'm that stupid.</span></p>
+<p begin="25190165000t" end="25212687500t" region="region_2" xml:id="subtitle615"><span style="style_1">-[weapons charging]</span><br/><span style="style_1">-[grunts]</span></p>
+<p begin="25256898334t" end="25282757500t" region="region_2" xml:id="subtitle616"><span style="style_1">You shouldn't have come back. [grunts]</span></p>
+<p begin="25395370000t" end="25407882500t" region="region_2" xml:id="subtitle617"><span style="style_1">[yelling]</span></p>
+<p begin="25621012082t" end="25632273332t" region="region_2" xml:id="subtitle618"><span style="style_1">[powering up]</span></p>
+<p begin="25643534584t" end="25651876250t" region="region_2" xml:id="subtitle619"><span style="style_1">[shouts]</span></p>
+<p begin="25676901250t" end="25686911250t" region="region_2" xml:id="subtitle620"><span style="style_1">[powering down]</span></p>
+<p begin="25696921250t" end="25706931250t" region="region_2" xml:id="subtitle621"><span style="style_1">Fuck!</span></p>
+<p begin="25723197500t" end="25737378332t" region="region_2" xml:id="subtitle622"><span style="style_1">[screams]</span></p>
+<p begin="25787845416t" end="25799523750t" region="region_2" xml:id="subtitle623"><span style="style_1">[vehicle approaches]</span></p>
+<p begin="25813287500t" end="25837478332t" region="region_2" xml:id="subtitle624"><span style="style_1">[distorted voice over speakers]</span><br/><span style="style_2">BCPD. Lay down your weapons.</span></p>
+<p begin="25843317500t" end="25873764582t" region="region_2" xml:id="subtitle625"><span style="style_1">Who the hell are you? Police? CTAC?</span></p>
+<p begin="25874598750t" end="25910467917t" region="region_2" xml:id="subtitle626"><span style="style_1">250 years ago, I was on the other side.</span><br/><span style="style_1">You might want to get out of the light.</span></p>
+<p begin="25954261666t" end="25970527916t" region="region_2" xml:id="subtitle627"><span style="style_1">[distorted voice]</span><span style="style_2"> Hands in the air!</span></p>
+<p begin="25983457500t" end="26010150832t" region="region_1" xml:id="subtitle628"><span style="style_1">You're under arrest for Organic Damage.</span></p>
+<p begin="26034341667t" end="26061035000t" region="region_2" xml:id="subtitle629"><span style="style_1">[Ortega] You're staying here tonight</span><br/><span style="style_1">where I can keep an eye on you.</span></p>
+<p begin="26092733334t" end="26114838750t" region="region_2" xml:id="subtitle630"><span style="style_1">You gonna tell me</span><br/><span style="style_1">why those guys jumped me?</span></p>
+<p begin="26118175417t" end="26136527084t" region="region_2" xml:id="subtitle631"><span style="style_1">You walk out of a whorehouse</span><br/><span style="style_1">dressed like that,</span></p>
+<p begin="26137361250t" end="26159883750t" region="region_2" xml:id="subtitle632"><span style="style_1">and you're shocked</span><br/><span style="style_1">that some lowlifes tried to mug you?</span></p>
+<p begin="26160717916t" end="26171979166t" region="region_2" xml:id="subtitle633"><span style="style_1">Really?</span></p>
+<p begin="26172813332t" end="26187411250t" region="region_2" xml:id="subtitle634"><span style="style_1">So, what, you gonna charge me?</span></p>
+<p begin="26193250416t" end="26229536666t" region="region_2" xml:id="subtitle635"><span style="style_1">For what?</span><br/><span style="style_1">Organic Damage to some Stiff dealers?</span></p>
+<p begin="26230370834t" end="26250390834t" region="region_2" xml:id="subtitle636"><span style="style_1">I'm too tired to do the paperwork.</span></p>
+<p begin="26319209582t" end="26334641666t" region="region_2" xml:id="subtitle637"><span style="style_1">Tell me something, Kovacs.</span></p>
+<p begin="26339646667t" end="26361752084t" region="region_2" xml:id="subtitle638"><span style="style_1">You're getting to know more</span><br/><span style="style_1">about Bancroft.</span></p>
+<p begin="26365505834t" end="26395952917t" region="region_2" xml:id="subtitle639"><span style="style_1">Why are you still willing to work</span><br/><span style="style_1">for that piece of shit?</span></p>
+<p begin="26404711667t" end="26426817084t" region="region_2" xml:id="subtitle640"><span style="style_1">Mmm, before I was an Envoy...</span></p>
+<p begin="26446420000t" end="26482289166t" region="region_2" xml:id="subtitle641"><span style="style_1">I worked for the Protectorate.</span><br/><span style="style_1">For a long time.</span></p>
+<p begin="26483123332t" end="26493133332t" region="region_2" xml:id="subtitle642"><span style="style_1">I didn't know that.</span></p>
+<p begin="26493967500t" end="26529419582t" region="region_2" xml:id="subtitle643"><span style="style_1">No one does. It's not the kind of work</span><br/><span style="style_1">that gets logged in any system anywhere.</span></p>
+<p begin="26547771250t" end="26564871666t" region="region_2" xml:id="subtitle644"><span style="style_1">And I was good at it.</span></p>
+<p begin="26586560000t" end="26596570000t" region="region_2" xml:id="subtitle645"><span style="style_1">You wanna know why?</span></p>
+<p begin="26637444166t" end="26656630000t" region="region_2" xml:id="subtitle646"><span style="style_1">Because I'm capable of almost anything.</span></p>
+<p begin="26684574582t" end="26721277916t" region="region_2" xml:id="subtitle647"><span style="style_1">You don't think it's possible to go so far</span><br/><span style="style_1">you can't come back?</span></p>
+<p begin="26726282917t" end="26735875834t" region="region_2" xml:id="subtitle648"><span style="style_1">Maybe.</span></p>
+<p begin="26752559166t" end="26766740000t" region="region_2" xml:id="subtitle649"><span style="style_1">When I get there, I'll let you know.</span></p>
+<p begin="26767574166t" end="26781337916t" region="region_2" xml:id="subtitle650"><span style="style_1">When you get there...</span></p>
+<p begin="26789679582t" end="26823046250t" region="region_2" xml:id="subtitle651"><span style="style_1">I'll be right next to you.</span><br/><span style="style_1">And I'll stop you.</span></p>
+<p begin="26848488332t" end="26863503332t" region="region_2" xml:id="subtitle652"><span style="style_1">Somehow, Ortega...</span></p>
+<p begin="26883940416t" end="26906462916t" region="region_2" xml:id="subtitle653"><span style="style_1">I get the feeling</span><br/><span style="style_1">you can't even stop yourself.</span></p>
+<p begin="26933990416t" end="26965688749t" region="region_2" xml:id="subtitle654"><span style="style_1">Sorry, Lieutenant. We have to release him.</span></p>
+<p begin="26977367084t" end="26991130834t" region="region_2" xml:id="subtitle655"><span style="style_1">[Kovacs chuckles]</span></p>
+<p begin="27076632916t" end="27094984582t" region="region_2" xml:id="subtitle656"><span style="style_1">[Prescott] This is not acceptable.</span></p>
+<p begin="27095818749t" end="27117924166t" region="region_2" xml:id="subtitle657"><span style="style_1">-Are you all right, Mr. Kovacs?</span><br/><span style="style_1">-He's just fucking fine.</span></p>
+<p begin="27123763332t" end="27150039582t" region="region_2" xml:id="subtitle658"><span style="style_1">I'll speak with Captain Tanaka</span><br/><span style="style_1">in the morning.</span></p>
+<p begin="27153376250t" end="27176732917t" region="region_2" xml:id="subtitle659"><span style="style_1">You've gone too far this time,</span><br/><span style="style_1">Lieutenant Ortega.</span></p>
+<p begin="27177567082t" end="27188411249t" region="region_2" xml:id="subtitle660"><span style="style_1">That's what I hear.</span></p>
+<p begin="27547519999t" end="27557529999t" region="region_2" xml:id="subtitle661"><span style="style_1">[beeps]</span></p>
+<p begin="27567540000t" end="27588394167t" region="region_2" xml:id="subtitle662"><span style="style_1">[low chatter nearby]</span></p>
+<p begin="27698504166t" end="27728117082t" region="region_2" xml:id="subtitle663"><span style="style_1">[automated voice]</span><br/><span style="style_2">Cold chamber seven is empty.</span></p>
+<p begin="27944166249t" end="27958347082t" region="region_2" xml:id="subtitle664"><span style="style_1">You should know...</span></p>
+<p begin="27969191249t" end="27987542916t" region="region_2" xml:id="subtitle665"><span style="style_1">your mother loves you.</span></p>
+<p begin="28013819167t" end="28038010000t" region="region_2" xml:id="subtitle666"><span style="style_1">-[thunder rumbles]</span><br/><span style="style_1">-[people chattering]</span></p>
+<p begin="28067622917t" end="28090979584t" region="region_2" xml:id="subtitle667"><span style="style_1">[man on TV] </span><span style="style_2">What do you mean</span><br/><span style="style_2">you promised to send Vicki flowers?</span></p>
+<p begin="28091813749t" end="28116004582t" region="region_2" xml:id="subtitle668"><span style="style_1">[man 2] </span><span style="style_2">The day of the murder,</span><br/><span style="style_2">I'd driven Vicki to the station</span></p>
+<p begin="28116838749t" end="28136441666t" region="region_2" xml:id="subtitle669"><span style="style_2">to get her train reservations.</span></p>
+<p begin="28137275832t" end="28162717916t" region="region_2" xml:id="subtitle670"><span style="style_1">[man 1]</span><span style="style_2"> You were with Vicki</span><br/><span style="style_2">the afternoon she was killed?</span></p>
+<p begin="28163552082t" end="28173562082t" region="region_2" xml:id="subtitle671"><span style="style_1">[man 2] </span><span style="style_2">Yes.</span></p>
+<p begin="28174396250t" end="28189411250t" region="region_2" xml:id="subtitle672"><span style="style_1">[man 1] </span><span style="style_2">Why didn't you tell the police?</span></p>
+<p begin="28190245417t" end="28203175000t" region="region_2" xml:id="subtitle673"><span style="style_1">[TV clicks off]</span></p>
+<p begin="28244049166t" end="28254476249t" region="region_2" xml:id="subtitle674"><span style="style_1">Nice outfit.</span></p>
+<p begin="28255310416t" end="28295767499t" region="region_2" xml:id="subtitle675"><span style="style_1">I've been researching the famous</span><br/><span style="style_1">gumshoe private dicks of the past</span></p>
+<p begin="28302857916t" end="28344566249t" region="region_2" xml:id="subtitle676"><span style="style_1">and I believe I can assist you</span><br/><span style="style_1">in the time-honored position</span></p>
+<p begin="28345400416t" end="28392947916t" region="region_2" xml:id="subtitle677"><span style="style_1">of the shamus' dependable</span><br/><span style="style_1">and steadfast partner. Hmm?</span></p>
+<p begin="28393782084t" end="28416304584t" region="region_2" xml:id="subtitle678"><span style="style_1">-The partner's frequently murdered.</span><br/><span style="style_1">-[elevator dings]</span></p>
+<p begin="28420475417t" end="28442580834t" region="region_2" xml:id="subtitle679"><span style="style_1">Alas, me being an AI makes that, uh...</span></p>
+<p begin="28447168750t" end="28457178750t" region="region_2" xml:id="subtitle680"><span style="style_1">less likely.</span></p>
+<p begin="28461766666t" end="28473027916t" region="region_2" xml:id="subtitle681"><span style="style_1">No.</span></p>
+<p begin="28473862082t" end="28483454999t" region="region_2" xml:id="subtitle682"><span style="style_1">No?</span></p>
+<p begin="28542680832t" end="28580635416t" region="region_2" xml:id="subtitle683"><span style="style_1">"No" hardly qualifies as</span><br/><span style="style_1">the sardonic banter of the private eye.</span></p>
+<p begin="28581469582t" end="28599821249t" region="region_2" xml:id="subtitle684"><span style="style_1">How about, "Fuck, no"?</span></p>
+<p begin="28607745832t" end="28630268332t" region="region_2" xml:id="subtitle685"><span style="style_1">There's someone waiting for you</span><br/><span style="style_1">in the penthouse.</span></p>
+<p begin="28652373749t" end="28675313332t" region="region_2" xml:id="subtitle686"><span style="style_1">Why do you keep letting people</span><br/><span style="style_1">into my room?</span></p>
+<p begin="28676147499t" end="28697001666t" region="region_2" xml:id="subtitle687"><span style="style_1">I'm afraid I had no choice in the matter.</span></p>
+<p begin="28697835834t" end="28709097084t" region="region_2" xml:id="subtitle688"><span style="style_1">[elevator dings]</span></p>
+<p begin="29033170834t" end="29043597917t" region="region_2" xml:id="subtitle689"><span style="style_1">Why are you here?</span></p>
+<p begin="29044432082t" end="29066954582t" region="region_2" xml:id="subtitle690"><span style="style_1">I want to know what progress you've made.</span></p>
+<p begin="29073627916t" end="29089477082t" region="region_2" xml:id="subtitle691"><span style="style_1">I'm worried about my husband.</span></p>
+<p begin="29090311249t" end="29121175416t" region="region_2" xml:id="subtitle692"><span style="style_1">Your husband, who pays</span><br/><span style="style_1">to beat up whores in Licktown.</span></p>
+<p begin="29140361249t" end="29156210416t" region="region_2" xml:id="subtitle693"><span style="style_1">It's a complicated thing...</span></p>
+<p begin="29163300834t" end="29185406250t" region="region_2" xml:id="subtitle694"><span style="style_1">-Yeah?</span><br/><span style="style_1">-...being with someone for over a century.</span></p>
+<p begin="29201672499t" end="29227531666t" region="region_2" xml:id="subtitle695"><span style="style_1">I've given Laurens 21 children.</span></p>
+<p begin="29239210000t" end="29260481250t" region="region_2" xml:id="subtitle696"><span style="style_1">He's never had a child with anyone but me.</span></p>
+<p begin="29268405832t" end="29298018749t" region="region_2" xml:id="subtitle697"><span style="style_1">Sometimes, complexity can be exhausting.</span></p>
+<p begin="29303857916t" end="29320541249t" region="region_2" xml:id="subtitle698"><span style="style_1">You fascinate me.</span></p>
+<p begin="29339727082t" end="29362666666t" region="region_2" xml:id="subtitle699"><span style="style_1">You come from a time of real bravery...</span></p>
+<p begin="29372676666t" end="29387274582t" region="region_2" xml:id="subtitle700"><span style="style_1">real risk.</span></p>
+<p begin="29393947916t" end="29415219166t" region="region_2" xml:id="subtitle701"><span style="style_1">You're everything this world has lost.</span></p>
+<p begin="29430651249t" end="29468605832t" region="region_2" xml:id="subtitle702"><span style="style_1">You twirl your fingers</span><br/><span style="style_1">when you're nervous, you know that?</span></p>
+<p begin="29484872082t" end="29498218749t" region="region_2" xml:id="subtitle703"><span style="style_1">Why would I be nervous?</span></p>
+<p begin="29504057916t" end="29515736249t" region="region_2" xml:id="subtitle704"><span style="style_1">It could be fear.</span></p>
+<p begin="29524077916t" end="29554942082t" region="region_2" xml:id="subtitle705"><span style="style_1">If I were afraid,</span><br/><span style="style_1">would you save me, Mr. Kovacs?</span></p>
+<p begin="29571625416t" end="29586640416t" region="region_2" xml:id="subtitle706"><span style="style_1">I'm not sure you need saving.</span></p>
+<p begin="29623343749t" end="29642946666t" region="region_2" xml:id="subtitle707"><span style="style_1">Have you been with anyone</span><br/><span style="style_1">since you've been decanted?</span></p>
+<p begin="29643780832t" end="29654624999t" region="region_2" xml:id="subtitle708"><span style="style_1">Not what we're talking about.</span></p>
+<p begin="29655459166t" end="29676313332t" region="region_2" xml:id="subtitle709"><span style="style_1">Maybe that's not</span><br/><span style="style_1">what </span><span style="style_2">you're</span><span style="style_1"> talking about.</span></p>
+<p begin="29737207499t" end="29753056666t" region="region_2" xml:id="subtitle710"><span style="style_1">I think that's enough.</span></p>
+<p begin="29753890832t" end="29766820416t" region="region_2" xml:id="subtitle711"><span style="style_1">Enough?</span></p>
+<p begin="29777247499t" end="29792262499t" region="region_2" xml:id="subtitle712"><span style="style_1">It's an interesting word.</span></p>
+<p begin="29793096667t" end="29810197084t" region="region_2" xml:id="subtitle713"><span style="style_1">I'm not familiar with it.</span></p>
+<p begin="29829382916t" end="29846066249t" region="region_2" xml:id="subtitle714"><span style="style_1">Have you heard of Empathin?</span></p>
+<p begin="29864417917t" end="29899870000t" region="region_2" xml:id="subtitle715"><span style="style_1">Merge9 on the street.</span><br/><span style="style_1">That is if you can even get it.</span></p>
+<p begin="29920724167t" end="29939492917t" region="region_2" xml:id="subtitle716"><span style="style_1">It's a biochemical pheromone.</span></p>
+<p begin="29955342082t" end="29983286666t" region="region_2" xml:id="subtitle717"><span style="style_1">Puts bodies in touch with one other.</span></p>
+<p begin="30010397084t" end="30050437084t" region="region_2" xml:id="subtitle718"><span style="style_1">This sleeve is state-of-the-art</span><br/><span style="style_1">biochemtech from Nakamura Labs.</span></p>
+<p begin="30059612916t" end="30094647916t" region="region_2" xml:id="subtitle719"><span style="style_1">I secrete Merge9 when I'm aroused.</span></p>
+<p begin="30140944167t" end="30154707917t" region="region_2" xml:id="subtitle720"><span style="style_1">It's in my saliva...</span></p>
+<p begin="30171808334t" end="30185572084t" region="region_2" xml:id="subtitle721"><span style="style_1">in my sweat...</span></p>
+<p begin="30212265416t" end="30229365832t" region="region_2" xml:id="subtitle722"><span style="style_1">in my cunt.</span></p>
+<p begin="30520489999t" end="30535922082t" region="region_2" xml:id="subtitle723"><span style="style_1">Don't fight it.</span></p>
+<p begin="30716102082t" end="30742378332t" region="region_2" xml:id="subtitle724"><span style="style_1">Forgive me, Father, for I have sinned.</span></p>
+<p begin="30770739999t" end="30784920832t" region="region_2" xml:id="subtitle725"><span style="style_1">I've had lustful thoughts.</span></p>
+<p begin="30817870416t" end="30830799999t" region="region_2" xml:id="subtitle726"><span style="style_1">[moaning]</span></p>
+<p begin="31017236249t" end="31056859166t" region="region_2" xml:id="subtitle727"><span style="style_1">[echoing] Everything you feel... I feel.</span></p>
+<p begin="31064366666t" end="31091059999t" region="region_2" xml:id="subtitle728"><span style="style_1">And everything I feel, you feel.</span></p>
+<p begin="31113999582t" end="31154039582t" region="region_2" xml:id="subtitle729"><span style="style_1">I've done terrible things,</span><br/><span style="style_1">violent things...</span></p>
+<p begin="31178647499t" end="31193245416t" region="region_2" xml:id="subtitle730"><span style="style_1">unforgivable things.</span></p>
+<p begin="31245380832t" end="31258727499t" region="region_2" xml:id="subtitle731"><span style="style_1">What the fuck?</span></p>
+<p begin="31301270000t" end="31315867917t" region="region_2" xml:id="subtitle732"><span style="style_1">The hell have you been?</span></p>
+<p begin="31407626249t" end="31439324582t" region="region_2" xml:id="subtitle733"><span style="style_1">I've abused my authority</span><br/><span style="style_1">for selfish reasons...</span></p>
+<p begin="31461429999t" end="31489791666t" region="region_2" xml:id="subtitle734"><span style="style_1">caused pain and heartbreak</span><br/><span style="style_1">when I had no right.</span></p>
+<p begin="31562364166t" end="31575293749t" region="region_2" xml:id="subtitle735"><span style="style_1">Please forgive me.</span></p>
+<p begin="31757976250t" end="31785920834t" region="region_2" xml:id="subtitle736"><span style="style_1">[Kovacs] </span><span style="style_2">The moments of peace</span><br/><span style="style_2">that we find sometimes...</span></p>
+<p begin="31792594166t" end="31837222082t" region="region_2" xml:id="subtitle737"><span style="style_2">they aren't anything but warfare,</span><br/><span style="style_2">thinly disguised.</span></p>
+<p begin="31858493332t" end="31877679166t" region="region_2" xml:id="subtitle738"><span style="style_2">And sometimes, surrender...</span></p>
+<p begin="31887272082t" end="31908543332t" region="region_2" xml:id="subtitle739"><span style="style_2">can be as savage as any attack.</span></p>
+<p begin="32159210416t" end="32179230416t" region="region_2" xml:id="subtitle740"><span style="style_1">[ambient music playing]</span></p>
+</div>
+</body>
+</tt>
