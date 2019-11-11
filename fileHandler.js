@@ -1,7 +1,10 @@
 const fs = require('fs');
 const readline = require('readline')
 
-module.exports.transfer = function (sourceFile) {
+const netflix = 'Netflix'
+const youtube = 'Youtube'
+
+module.exports.transfer = function (sourceFile, sourceWebsite) {
   const readFileStream = fs.createReadStream(sourceFile)
   const readLineStream = readline.Interface({
     input: readFileStream
@@ -10,7 +13,7 @@ module.exports.transfer = function (sourceFile) {
   const targetFileName = createResultName(sourceFile)
 
   readLineStream.on('line', (data) => {
-    const input = removeXmlTag(data)
+    const input = removeTag(data, sourceWebsite)
     if (input) fs.appendFileSync(targetFilePath +  targetFileName, input)
   })
   console.log('Write in file success.')
@@ -22,17 +25,40 @@ function createResultName(str) {
   return str.match(/(?:.*\/)(.*)(?:\.)/)[1] + '.txt'
 }
 
-function removeXmlTag(data) {
-  const regEXpWithSpanGlobal = /(?:<span.*?>)(.*?)(?:<[/]span>)/g
-  const regEXpBetweenSpan = /(?:<span.*?>)(.*?)(?:<[/]span>)/
+function removeTag(data, sourceWebsite) {
+  const siteObject = {
+    'Youtube': removeYoutubeTag,
+    'Netflix': removeNetflixTag
+  }
 
-  const matchedStrings = data.match(regEXpWithSpanGlobal)
+  return siteObject[sourceWebsite](data)
+}
+
+function removeYoutubeTag(data) {
+  const regExp = /(?:<p.*?>)(.*?)(?:<\/p>)|(.*?)(?:<\/p>)|(?:<p.*?>)(.*)/
+  let result = ''
+
+  const matchedResult = data.match(regExp)
+
+  if(!matchedResult) return
+
+  const matchedString = matchedResult[1] || matchedResult[2] || matchedResult[3]
+  result += matchedString + '\n'
+
+  return result
+}
+
+function removeNetflixTag(data) {
+  const regExpWithSpanGlobal = /(?:<span.*?>)(.*?)(?:<[/]span>)/g
+  const regExpBetweenSpan = /(?:<span.*?>)(.*?)(?:<[/]span>)/
+
+  const matchedStrings = data.match(regExpWithSpanGlobal)
   let result = ''
 
   if(!matchedStrings) return
 
   matchedStrings.forEach((matchStr) => {
-    result += matchStr.match(regEXpBetweenSpan)[1] + '\n'
+    result += matchStr.match(regExpBetweenSpan)[1] + '\n'
   })
   return result
 }
